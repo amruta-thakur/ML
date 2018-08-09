@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <sequenceMcq>
+        <sequenceSection>
+            <sequence>
+                <questionText>
+                    <![CDATA[Select the key areas that you need to consider when allocating targets for individual life insurance professionals.]]>
+                </questionText>
+                <instructionText>
+                    <![CDATA[Select the correct options and click Submit.]]>
+                </instructionText>
+                <options answer="4" attempts="1" multipleAnswer="10203040">
+                    <option>
+                        <![CDATA[Your team’s structure in terms of size and experience]]>
+                    </option>
+                    <option>
+                        <![CDATA[The minimum individual performance levels]]>
+                    </option>
+                    <option>
+                        <![CDATA[The previous quarter’s performance]]>
+                    </option>
+                    <option>
+                        <![CDATA[Your life insurance professional’s personal goals]]>
+                    </option>
+                </options>
+                <feedbacks>
+                    <feedback type="correct" btnText="Continue" headerText="Correct">
+                        <![CDATA[ You need to consider all four areas when allocating targets for individual life insurance professionals]]></feedback>
+                    <feedback type="inCorrect" btnText="Try Again" headerText="Incorrect">
+                        <![CDATA[ Try again. ]]></feedback>
+                    <feedback type="attemptOver" btnText="Continue" headerText="Incorrect">
+                        <![CDATA[ You need to consider all four areas when allocating targets for individual life insurance professionals]]></feedback>
+                </feedbacks>
+            </sequence>
+        </sequenceSection>
+        <sequenceSection>
+            <sequence>
+                <questionText>
+                    <![CDATA[Which two of the following questions are related to team structure?]]>
+                </questionText>
+                <instructionText>
+                    <![CDATA[Select the correct options and click Submit.]]>
+                </instructionText>
+                <options answer="2" attempts="1" multipleAnswer="1030">
+                    <option>
+                        <![CDATA[At what stage of development are your team members?]]>
+                    </option>
+                    <option>
+                        <![CDATA[Are all of the existing individuals in your team up to the minimum performance levels?]]>
+                    </option>
+                    <option>
+                        <![CDATA[How many new life insurance professionals do you need to recruit? ]]>
+                    </option>
+                    <option>
+                        <![CDATA[Is this the right time for a life insurance professional to take a larger proportion of the team’s targets?]]>
+                    </option>
+                </options>
+                <feedbacks>
+                    <feedback type="correct" btnText="Continue" headerText="Correct">
+                        <![CDATA[ Questions related to the stage of a life insurance professional’s development and to the number of new life insurance professionals that you need to recruit help you decide the team structure.]]></feedback>
+                    <feedback type="inCorrect" btnText="Try Again" headerText="Incorrect">
+                        <![CDATA[ Try again. ]]></feedback>
+                    <feedback type="attemptOver" btnText="Continue" headerText="Incorrect">
+                        <![CDATA[ Questions related to the stage of a life insurance professional’s development and to the number of new life insurance professionals that you need to recruit help you decide the team structure.]]></feedback>
+                </feedbacks>
+            </sequence>
+        </sequenceSection>
+        <sequenceSection>
+            <sequence>
+                <questionText>
+                    <![CDATA[Which one of the following questions is related to the area of previous performance?]]>
+                </questionText>
+                <instructionText>
+                    <![CDATA[Select the correct option and click Submit.]]>
+                </instructionText>
+                <options answer="3" attempts="1">
+                    <option>
+                        <![CDATA[What training, coaching and support does the life insurance professional need?]]>
+                    </option>
+                    <option>
+                        <![CDATA[How will your developing life insurance professionals progress this quarter?]]>
+                    </option>
+                    <option>
+                        <![CDATA[Is this the right time for a life insurance professional to take a larger proportion of the team’s targets?]]>
+                    </option>
+                    <option>
+                        <![CDATA[What can you do to make sure your life insurance professionals meet or exceed their targets?]]>
+                    </option>
+                </options>
+                <feedbacks>
+                    <feedback type="correct" btnText="Continue" headerText="Correct">
+                        <![CDATA[ The decision to assign additional target to a life insurance professional is based on the fact that the life insurance professional has exceeded performance target in the past.]]></feedback>
+                    <feedback type="inCorrect" btnText="Try Again" headerText="Incorrect">
+                        <![CDATA[ Try again. ]]></feedback>
+                    <feedback type="attemptOver" btnText="Continue" headerText="Incorrect">
+                        <![CDATA[ Option specific feedback required]]></feedback>
+                </feedbacks>
+            </sequence>
+        </sequenceSection>
+        <sequenceSection>
+            <sequence>
+                <questionText>
+                    <![CDATA[Which of the following questions fall into the area of your goals?]]>
+                </questionText>
+                <instructionText>
+                    <![CDATA[Select the correct option and click Submit.]]>
+                </instructionText>
+                <options answer="4" attempts="1">
+                    <option>
+                        <![CDATA[At what stage of development are your team members?]]>
+                    </option>
+                    <option>
+                        <![CDATA[How many new life insurance professionals do you need to recruit?]]>
+                    </option>
+                    <option>
+                        <![CDATA[What can you do to make sure your life insurance professionals meet or exceed their targets?]]>
+                    </option>
+                    <option>
+                        <![CDATA[How much do you want to earn this quarter?]]>
+                    </option>
+                </options>
+                <feedbacks>
+                    <feedback type="correct" btnText="Continue" headerText="Correct">
+                        <![CDATA[ This question helps you to set sales targets for the life insurance professional and thus, falls in the area of your goals.]]></feedback>
+                    <feedback type="inCorrect" btnText="Try Again" headerText="Incorrect">
+                        <![CDATA[ Try again. ]]></feedback>
+                    <feedback type="attemptOver" btnText="Continue" headerText="Incorrect">
+                        <![CDATA[ Option specific feedback required]]></feedback>
+                </feedbacks>
+            </sequence>
+        </sequenceSection>
+        <sequenceSection>
+            <sequence>
+                <questionText>
+                    <![CDATA[Which of the following is the first activity that should be carried out in a one-to-one planning meeting?]]>
+                </questionText>
+                <instructionText>
+                    <![CDATA[Select the correct option and click Submit.]]>
+                </instructionText>
+                <options answer="4" attempts="1">
+                    <option>
+                        <![CDATA[Discuss income expectations and expenses.]]>
+                    </option>
+                    <option>
+                        <![CDATA[Agree on individual targets.]]>
+                    </option>
+                    <option>
+                        <![CDATA[Review sales activity for last quarter and plan for the coming quarter.]]>
+                    </option>
+                    <option>
+                        <![CDATA[Discover life insurance professional’s personal goals.]]>
+                    </option>
+                </options>
+                <feedbacks>
+                    <feedback type="correct" btnText="Continue" headerText="Correct">
+                        <![CDATA[You should start the meeting with the life insurance professional’s personal goals in order to understand what drives the life insurance professional and what the long-term goals are.]]></feedback>
+                    <feedback type="inCorrect" btnText="Try Again" headerText="Incorrect">
+                        <![CDATA[ Try again. ]]></feedback>
+                    <feedback type="attemptOver" btnText="Continue" headerText="Incorrect">
+                        <![CDATA[Option specific feedback required]]></feedback>
+                </feedbacks>
+            </sequence>
+        </sequenceSection>
+    </sequenceMcq>

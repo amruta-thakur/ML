@@ -1,0 +1,796 @@
+.position-relative{
+	position:relative;
+}
+.padding-left0{
+	padding-left:0;
+}
+.padding-right0{
+	padding-right:0;
+}
+.best_practices_bg .padding-leftRight0{
+	padding-left:0;
+	padding-right:0;
+}
+.padding-leftRight0{
+	padding-left:0;
+	padding-right:0;
+}
+
+.best_practices_bg .best, .best_practices_bg .possible{
+padding:20px;
+height:392px;
+position:relative;
+}
+
+.best_practices_bg .best .best_tab_area, .best_practices_bg .possible .possible_tab_area{
+padding:20px 10px 20px 0px;
+
+}
+
+.best_practices_bg .best h2,.best_practices_bg .possible h2{
+padding:0px 0px;
+color:#0090da;
+font-weight:bold;
+}
+
+
+
+.best_practices_bg .text-container-inside{
+height:135px;
+padding-right:20px;
+/* font-size:1.4em; */
+
+}
+
+.best_practices_bg{
+    width: 100%;
+	background-color:#fff;
+}
+.best_practices_bg #contentHeadingWrapper {
+    background: #004271;
+    display: none;
+    padding: 13px 25px;
+    /* font-size: 0.7em; */
+}
+.width90 {
+    width: 90%;
+    float: left;
+}
+.best_practices_tab .backIcon {
+    color: #fff;
+}
+
+
+
+
+.best_practices_bg .container {
+    padding-top: 15px;
+}
+.best_practices_bg .text-container p {
+    color: #000;
+	
+	
+    margin-bottom: 0.6rem;
+	
+}
+
+.best_practices_bg .text-container p:last-child{
+margin-bottom:0px;
+}
+
+.best_practices_bg .default-screen{
+padding:20px;
+}
+
+
+
+.best_practices_bg .text-container {
+    background-color: #f2f2f2;
+    padding: 10px 10px 11px 20px;
+    /* margin: 15px 0; */
+	/* border-radius: 3px; */
+	height:154px;
+	
+}
+.best_practices_bg img.img-responsive.desktop-bg-img{
+	/* border-radius:3px; */
+
+    max-width: 948px;
+    max-height: 228px;
+    width: 100%;
+}
+.best_practices_bg .best-possible-tabs img{
+	text-align:center;
+	display:inline-block;
+}
+.best_practices_bg .best-possible-tabs h3 {
+    /* font-size: 1.2rem; */
+    color: #0090DA;
+    text-transform: uppercase;
+   
+	
+	margin-bottom: 0;
+}
+.best_practices_bg .row.best-possible-tabs {
+	border-top: 1px solid #ccc;
+	position:relative;
+}
+.best_practices_bg .col-xs-6.col-sm-6.col-md-6.text-center {
+    padding: 8px;
+	cursor:pointer;
+	display:flex;
+	justify-content:center;
+}
+
+.best_practices_bg .best-possible-tabs{
+overflow:hidden;
+border-top:1px solid #f2f2f2;
+}
+
+.best_practices_bg div.tabs{
+/*border-right: 2px solid #0090DA;;*/
+
+}
+.best_practices_bg div.tabs:last-child{
+border:none;
+}
+
+.best_practices_bg .best-possible-tabs .active h3{
+	color:#fff;
+}
+.best_practices_bg .best-possible-tabs .tabs.active{
+	background-color:#0090DA;
+}
+.best_practices_bg .best-possible-tabs .tabs .img-best{
+	background-image: url('../images/w-bestp-blue-icon.png');
+	width:56px;
+	height:56px;
+	display:inline-block;
+}
+.best_practices_bg .best-possible-tabs .tabs.active .img-best{
+	background-image: url('../images/w-bestp-white-icon.png');
+	width:56px;
+	height:56px;
+	display:inline-block;
+}
+.best_practices_bg .best-possible-tabs .tabs .img-possibility{
+	background-image: url('../images/w-statement-blue-icon.png');
+	width:56px;
+	height:56px;
+	display:inline-block;
+}
+.best_practices_bg .best-possible-tabs .tabs.active .img-possibility{
+	background-image: url('../images/w-statement-white-icon.png');
+	width:56px;
+	height:56px;
+	display:inline-block;
+}
+
+.best_practices_bg .container h2 {
+    /* font-size: 2em; */
+    color: #0090DA;
+    font-weight: bold;
+	display:inline-block;
+}
+.best_practices_bg .best .row {
+    background-color: #f2f2f2;
+    
+}
+
+
+/* possible statements */
+
+.best_practices_bg .possible .row {
+    background-color: #f2f2f2;
+    
+}
+
+
+.best_practices_bg span.close-icon {
+       color: #0090DA;
+  position: absolute;
+    top: 4%;
+    right: 2.5%;
+    font-size: 1.8em;
+    /*color: black;*/
+    cursor: pointer;
+}
+.best_practices_bg .best .text-tag, .best_practices_bg .possible .text-tag{
+float: right;
+    width: 57%;
+}
+
+.best_practices_bg .best .img-tag, .best_practices_bg .possible .img-tag{
+	margin-right:15px;
+    float: left;
+    width: 40%;
+}
+
+
+
+.best_practices_bg .best .text-tag .textContent,.best_practices_bg .possible .text-tag .textContent{
+	height:280px;
+	color:#000 !important;
+	padding:0px 20px;
+/* 	font-size:1.4em; */
+	
+	overflow-y:auto;
+}
+
+.best_practices_bg .best .text-tag .textContent ul li:last-child, .best_practices_bg .possible .text-tag .textContent  ul li:last-child{
+margin-bottom:0px;
+
+}
+
+.best_practices_bg .best .text-tag .textContent p:last-child, .best_practices_bg .possible .text-tag .textContent p:last-child{
+margin-bottom:0px;
+
+}
+
+
+.best_practices_bg .best .text-tag .textContent ul,.best_practices_bg .possible .text-tag .textContent ul{
+margin-bottom:0px;
+}
+.best_practices_bg .best .text-tag .textContent ul li:last-child,.best_practices_bg .possible .text-tag .textContent ul li:last-child{
+margin-bottom:0px;
+}
+
+.best_practices_bg div.tabs {
+    display: block;
+    /* justify-content: center; */
+    width:50%;
+	float:left;
+	padding-bottom:12px;
+	cursor:pointer;
+	min-height:75px;
+	border-right:1px solid #f2f2f2;
+	/* word-break: break-all; */
+}
+
+
+.best_practices_bg div.vertical-separator {
+    background-color: #0090DA;
+    
+    width: 1%;
+    height: 100%;
+    float:left;
+    display: block;
+    
+    
+}
+
+
+
+
+
+.best_practices_bg i.fa.fa-arrow-circle-left {
+    color: #808080;
+	cursor: pointer;
+	font-size: 23px;
+}
+.best_practices_bg i.fa.fa-arrow-circle-right {
+    color: #808080;
+	cursor: pointer;
+	font-size: 23px;
+}	
+
+.best_practices_bg .lightSlider.lsGrab > *{
+	cursor:unset;
+}
+.on-mobile-hide{
+	display:none;
+}
+.logo-section{
+	display:none;
+}
+.fa-times-thin:before {
+    content: "\00d7" !important;
+}
+
+/* for iphone app view portrait starts */
+
+.portraitView .fixed_block {
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+}
+
+.portraitView .best_practices_bg .best-possible-tabs h3{
+	padding-left:5px;
+	padding-right:5px;
+}
+
+.portraitView .best_practices_bg  .desktop-bg-img{
+		display:none;
+	}
+	.portraitView .best_practices_bg .mobile-bg-img{
+		display:block;
+		margin:0px auto;
+	
+	}
+	
+	.portraitView .best_practices_bg .text-container{
+	padding:15px;
+	height:295px;
+	}
+	
+	.portraitView .best_practices_bg .text-container-inside{
+	height:260px;
+	padding:0px 10px;
+	}
+	
+	
+	.portraitView .best_practices_bg span.close-icon {
+  
+    right: 5%;
+    
+}
+	
+	.portraitView .best_practices_bg .best, .portraitView  .best_practices_bg  .possible{
+	height:auto;
+	background:#f2f2f2;
+	padding-bottom:0px;
+	}
+	
+	
+	
+	.portraitView .best_practices_bg .text-container-inside{
+	overflow-y:auto;
+	}
+	.portraitView .best_practices_bg .best .img-tag, .portraitView .best_practices_bg .possible .img-tag{
+	display:block;
+	float:none;
+	width:100%;
+	margin-right:0px;
+	}
+	
+	.portraitView .best_practices_bg .best .text-tag, .portraitView .best_practices_bg .possible .text-tag{
+		    width: 100%;
+    float: none;
+    height:250px;
+	padding: 15px 0px;
+	}
+	
+	.portraitView .best_practices_bg .best .text-tag .textContent, .portraitView  .best_practices_bg .possible .text-tag .textContent{
+	    padding: 0px 10px;
+    height: 210px;
+	}
+	
+	.portraitView .best_practices_bg .best .best_tab_area, .portraitView .best_practices_bg .possible .possible_tab_area{
+	padding:0px;
+	}
+	.portraitView .best_practices_bg .best .text-tag, .portraitView .best_practices_bg .possible .text-tag{
+	width: 100%;
+    float: none;
+    height: 250px;
+    padding: 15px 0px;
+}
+
+
+/* for iphone app view portrait ends */
+
+
+/* for iphone app view landscape */
+.landscapeView .fixed_block {
+    min-height: 384px !important;
+    position: relative !important;
+    margin-bottom: 0px;
+    /* padding: 9px 23px 23px 23px; */
+    height: 100% !important;
+}
+
+.landscapeView .best_practices_bg .best .text-tag, .landscapeView .best_practices_bg .possible .text-tag{
+	    float: right;
+    width: 57%;
+}
+
+.landscapeView .best_practices_bg .desktop-bg-img{
+		display:block;
+	}
+	.landscapeView .best_practices_bg .mobile-bg-img{
+		display:none;
+	
+	}
+	
+	.landscapeView .best_practices_bg .text-container{
+		height:171px;
+	}
+	
+	
+	.landscapeView .best_practices_bg .text-container-inside{
+	overflow-y:auto;
+	}
+	
+	.landscapeView .best_practices_bg .best,.best_practices_bg  .possible{
+	height:auto;
+	/* background:#f2f2f2; */
+	}
+	
+	
+	.landscapeView .best_practices_bg #contentHeadingWrapper {
+		display: none !important;
+	}
+	.landscapeView .width10 {
+		float: left;
+		/* font-size: 3em; */
+		position: relative;
+		top: 17px;
+		width: 10%;
+	}
+	.landscapeView .on-mobile-hide{
+		display:none;
+	}
+	.landscapeView .best_practices_bg .padding-leftRight0{
+		padding-left:15px;
+		padding-left:15px;
+		overflow: hidden;
+		width: 100%;
+	}
+	
+	.landscapeView .best_practices_bg .container{
+		padding-right:0;
+		padding-left:0;
+		background-color:#f2f2f2;
+		height: 395px;
+		/*overflow-y: scroll;*/
+		padding-top:5px;
+	}
+	
+	/* mobile section only for mobile device */
+	.landscapeView .on-mobile-hide{
+		display:none !important;
+	}
+	.landscapeView .logo-section{
+		display:block;
+	} 
+	.landscapeView .mobile-padding-leftRight0{
+		padding-left:0 !important;
+		padding-right:0 !important;
+	}
+	.landscapeView .logo-section.mobile-padding-leftRight0 {
+		background-color: #fff;
+		text-align:center;
+	}
+	
+	
+	/* end */
+	
+	.landscapeView .best_practices_bg .best-possible-tabs h3{
+		line-height:1.2;
+	/* 	font-size: 0.8rem; */
+		font-weight: bold;
+	}
+	.landscapeView .best_practices_bg .best-possible-tabs .tabs .img-best, .landscapeView .best-possible-tabs .tabs .img-possibility{
+		margin:0 auto;
+		background-size: 36px 36px;
+		background-position: center;
+		background-repeat: no-repeat;
+		display: block !important;
+		height: 36px !important;
+	}
+	.landscapeView .best_practices_bg .col-xs-6.col-sm-6.col-md-6.text-center{
+		display:block;
+		padding:4px;
+	}
+	.landscapeView .best_practices_bg .best .row, .landscapeView .best_practices_bg .possible .row{
+		padding:0 0px;
+	}
+	.landscapeView .best_practices_bg .container ul{
+		margin-left:0;
+		padding-top: 15px;
+	}
+	.landscapeView .best_practices_bg .container li{
+		/*font-size: 1.2rem;*/
+		line-height: 1.2;
+		padding-bottom: 0.6rem;
+		font-weight:normal;
+	}
+	.landscapeView .best_practices_bg .container h2{
+		padding-left:15px;
+		/* font-size:1.2rem; */
+	}
+	.landscapeView .best_practices_bg span.close-icon{
+		/* padding-right:15px; */
+		font-size:1.6rem;
+	}
+	.landscapeView .best_practices_bg .text-container p{
+		
+		padding-left:0;
+	}
+	.landscapeView .best_practices_bg .best .text-tag .textContent, .landscapeView .best_practices_bg .possible .text-tag .textContent{
+		/*height:auto;
+		overflow-y:unset;*/
+		height: 170px;
+		overflow-y: scroll;
+	}
+	.landscapeView .best_practices_bg div.tabs {
+		display: unset;
+		justify-content: unset;
+		padding-top:5px;
+		padding-bottom: 5px;
+	}
+	
+	
+	.landscapeView .best_practices_bg .best .text-tag, .landscapeView  .best_practices_bg .possible .text-tag{
+padding:0px 0px 0px 0px!important;
+}
+
+.landscapeView .best_practices_bg .best .img-tag, .landscapeView  .best_practices_bg .possible .img-tag{
+margin-right: 15px;
+    float: left;
+    width: 40%;
+}
+
+
+/* for iphone app view landscape ends */
+
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) and (orientation : portrait) {
+.best_practices_bg  .desktop-bg-img{
+		display:none;
+	}
+	.best_practices_bg .mobile-bg-img{
+		display:block;
+		margin:0px auto;
+	}
+	
+	.best_practices_bg .best-possible-tabs h3 {
+    /* font-size: 1.2rem; */
+    padding-left:5px;
+	padding-right:5px;
+}
+	
+	.best_practices_bg .text-container{
+	padding:15px;
+	height:255px;
+	}
+	
+	.best_practices_bg .text-container-inside{
+	height:230px;
+	padding:0px 10px;
+	}
+	
+	
+	.best_practices_bg span.close-icon {
+  
+    right: 5%;
+    
+}
+	
+	.best_practices_bg .best, .best_practices_bg  .possible{
+	height:auto;
+	background:#f2f2f2;
+	padding-bottom:0px;
+	}
+	
+	
+	
+	.best_practices_bg .text-container-inside{
+	overflow-y:auto;
+	}
+	.best_practices_bg .best .img-tag, .best_practices_bg .possible .img-tag{
+	display:block;
+	float:none;
+	width:100%;
+	margin-right:0px;
+	}
+	
+	.best_practices_bg .best .text-tag, .best_practices_bg .possible .text-tag{
+		    width: 100%;
+    float: none;
+    height:250px;
+	padding: 15px 0px;
+	}
+	
+	.best_practices_bg .best .text-tag .textContent, .best_practices_bg .possible .text-tag .textContent{
+	    padding: 0px 10px;
+    height: 210px;
+	}
+	
+	
+	
+	.best_practices_bg .best .best_tab_area, .best_practices_bg .possible .possible_tab_area{
+	padding:0px;
+	}
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) and (orientation : landscape) {
+	
+	.best_practices_bg .desktop-bg-img{
+		display:block;
+	}
+	.best_practices_bg .mobile-bg-img{
+		display:none;
+	
+	}
+	
+	.best_practices_bg .text-container{
+		height:171px;
+	}
+	
+	
+	.best_practices_bg .text-container-inside{
+	overflow-y:auto;
+	}
+	
+	.best_practices_bg .best,.best_practices_bg  .possible{
+	height:auto;
+	background:#f2f2f2;
+	}
+	
+	
+	.best_practices_bg #contentHeadingWrapper {
+		display: none !important;
+	}
+	.width10 {
+		float: left;
+		/* font-size: 3em; */
+		position: relative;
+		top: 17px;
+		width: 10%;
+	}
+	.on-mobile-hide{
+		display:none;
+	}
+	.best_practices_bg .padding-leftRight0{
+		padding-left:15px;
+		padding-left:15px;
+		overflow: hidden;
+		width: 100%;
+	}
+	
+	.best_practices_bg .container{
+		padding-right:0;
+		padding-left:0;
+		background-color:#f2f2f2;
+		height: 395px;
+		/*overflow-y: scroll;*/
+		padding-top:5px;
+	}
+	
+	/* mobile section only for mobile device */
+	.on-mobile-hide{
+		display:none !important;
+	}
+	.logo-section{
+		display:block;
+	} 
+	.mobile-padding-leftRight0{
+		padding-left:0 !important;
+		padding-right:0 !important;
+	}
+	.logo-section.mobile-padding-leftRight0 {
+		background-color: #fff;
+		text-align:center;
+	}
+	
+	
+	/* end */
+	
+	.best_practices_bg .best-possible-tabs h3{
+		line-height:1.2;
+	/* 	font-size: 0.8rem; */
+		font-weight: bold;
+	}
+	.best_practices_bg .best-possible-tabs .tabs .img-best,.best-possible-tabs .tabs .img-possibility{
+		margin:0 auto;
+		background-size: 36px 36px;
+		background-position: center;
+		background-repeat: no-repeat;
+		display: block !important;
+		height: 36px !important;
+	}
+	.best_practices_bg .col-xs-6.col-sm-6.col-md-6.text-center{
+		display:block;
+		padding:4px;
+	}
+	.best_practices_bg .best .row,.best_practices_bg .possible .row{
+		padding:0 0px;
+	}
+	.best_practices_bg .container ul{
+		margin-left:0;
+		padding-top: 15px;
+	}
+	.best_practices_bg .container li{
+		/*font-size: 1.2rem;*/
+		line-height: 1.2;
+		padding-bottom: 0.6rem;
+		font-weight:normal;
+	}
+	.best_practices_bg .container h2{
+		padding-left:15px;
+		/* font-size:1.2rem; */
+	}
+	.best_practices_bg span.close-icon{
+		/* padding-right:15px; */
+		font-size:1.6rem;
+	}
+	.best_practices_bg .text-container p{
+		
+		padding-left:0;
+	}
+	.best_practices_bg .best .text-tag .textContent,.best_practices_bg .possible .text-tag .textContent{
+		/*height:auto;
+		overflow-y:unset;*/
+		height: 170px;
+		overflow-y: scroll;
+	}
+	.best_practices_bg div.tabs {
+		display: unset;
+		justify-content: unset;
+		padding-top:5px;
+		padding-bottom: 5px;
+		
+	}
+	
+	
+	.best_practices_bg .best .text-tag, .best_practices_bg .possible .text-tag{
+padding:0px 0px 0px 0px!important;
+}
+
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) and (orientation : portrait){
+
+	/* Track */
+	::-webkit-scrollbar-track {
+		background: #f1f1f1; 
+	}
+	/* Handle */
+	::-webkit-scrollbar-thumb {
+		background: #888; 
+	}
+	/* Handle on hover */
+	::-webkit-scrollbar-thumb:hover {
+		background: #555; 
+	}
+
+
+	.best_practices_bg .desktop-bg-img{
+		display:block;
+	}
+	.best_practices_bg .mobile-bg-img{
+		display:none;
+	}
+	
+	
+	
+	.best_practices_bg .text-container, .best_practices_bg .best .text-tag, .best_practices_bg .possible .text-tag{
+	height:109px;
+	
+	}
+	
+	
+	.best_practices_bg .best .best_tab_area, .best_practices_bg .possible .possible_tab_area{
+	padding-right:0px;
+	}
+	
+	.best_practices_bg .text-container-inside, .best_practices_bg .best .text-tag .textContent, .best_practices_bg .possible .text-tag .textContent{
+	height:87px;
+	overflow-y:auto;
+	
+	}
+	
+	
+	
+	.best_practices_bg .best .text-tag .textContent, .best_practices_bg .possible .text-tag .textContent{
+	height:200px;
+	}
+
+	
+	.best_practices_bg .best,.best_practices_bg  .possible{
+	height:310px;
+	background:#f2f2f2;
+	}
+	
+	.best_practices_bg .best h2, .best_practices_bg .possible h2{
+	margin-bottom:0px;
+	}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) and (orientation : landscape){
+.best_practices_bg .best, .best_practices_bg .possible{
+background:#f2f2f2;
+}
+}

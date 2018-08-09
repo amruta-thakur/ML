@@ -1,0 +1,2019 @@
+.width90 {
+    width: 90%;
+    float: left;
+}
+.scenerio-bg .playBtn, .scenerio-bg  .stopBtn{
+    position: absolute;
+    top:0px;
+	left:0px;
+	font-size:0.8em;
+}
+
+.carousel-item.scenerio{
+margin-bottom:0px;
+}
+
+#hinticons img{
+max-width:50px;
+}
+
+.scenerio-bg .playBtn{
+background:url('../images/play_icon.png') no-repeat left top;
+width:28px;
+height:28px;
+
+}
+
+.scenerio-bg .stopBtn{
+background:url('../images/pause_icon.png') no-repeat left top;
+width:28px;
+height:28px;
+
+}
+
+.btn-info, .btn-info:hover{
+		border:none !important;
+	}
+
+.scenerio-bg .cyu-screen .playBtn, .scenerio-bg .cyu-screen .stopBtn{
+	margin-left: -4px;
+    margin-top: -7px;
+}
+
+/* .showdetails_content .row .col:nth-child(2){
+text-align: left;
+    margin-left: 50px;
+    margin-top: -4px;
+} */
+	
+
+
+
+
+
+
+
+
+.scenerio-bg .hintScrollClass{
+padding-right:10px;
+height:220px;
+}
+
+.scenerio-bg .hintScrollClass li:last-child, .scenerio-bg .hintScrollClass p{
+margin-bottom:0px;
+}
+
+.logo-section {
+	display: none;
+}
+
+.scenerio-bg #playBtn, .scenerio-bg  #stopBtn, .scenerio-bg  #endplayBtn, .scenerio-bg  #endstopBtn, .scenerio-bg  #playBtnCyu, .scenerio-bg  #stopBtnCyu{
+	
+	color:#0090da;
+	
+}
+
+.scenerio-bg  #continue_feedbackscreen_btn.disable{
+                background:#A7A8AA;
+                cursor:default;
+                border-color:#A7A8AA;
+				pointer-events: none;
+}
+
+
+#contentHeadingWrapper_scenerio .video_heading h3.last_viewed {
+    
+    font-weight: 400;
+    color: #74bbec;
+    padding-top: 9px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+
+
+.showdetails_content .row .col{
+	
+	
+	
+	
+}
+
+.scenerio-bg  #continue_nextscreen_btn.disable{
+	background:#A7A8AA;
+	cursor:default;
+	border-color:#A7A8AA;
+	pointer-events: none;
+}
+
+.scenerio-bg  .cyu-screen ul{
+	color: #DB0A5B;
+	padding: 0px;
+    padding-left: 20px;
+    
+	margin-bottom: 0px;
+}
+
+.scenerio-bg  #hint_content p{
+	color: #DB0A5B;
+}
+
+.floatleft {
+    float: left;
+}
+.backIcon {
+	color: #fff;
+}
+#contentHeadingWrapper_scenerio .video_heading h2.topic_title {
+    
+    font-weight: 500;
+    padding-top: 5px;
+    color: #fff;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+#contentHeadingWrapper_scenerio {
+    background: #004271;
+    display: none;
+    padding: 13px 25px;
+    
+}
+
+
+
+.scenerio-bg{
+	width:100%;
+	/*display:none;*/
+	
+}
+.scenerio-bg  .hint-scroll {
+    height: 152px;
+}
+.scenerio-bg #playBtnCyu, .scenerio-bg #stopBtnCyu{
+cursor:pointer;
+position:absolute;
+}
+
+
+.relative-position{
+	position:relative;
+}
+.scenerio-bg  .scenerio-model {
+	background-color: #fff;
+    width: 90%;
+    margin: 0 auto;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 76px 50px 40px 50px;
+    border-radius: 7px;
+}
+.scenerio-bg .btn-info.custom-btn{
+	border-radius:30px;
+	background-color: #0061A0;
+}
+.scenerio-bg .screen_image{	
+	position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%,-20%);
+    border-radius: 50%;
+    border: 4px solid #fff;
+	width:100%;
+	max-width:248px;
+	max-height:248px;
+
+}
+
+.scenerio-bg .screen_image .thumbnail-profile{
+border-radius:50%;
+}
+
+.scenerio-bg .containerclass{
+	position:relative;
+}
+
+
+.scenerio-bg  .showdetails_content .row{
+	margin-bottom:20px;
+}
+
+#learningContent ul{
+	padding: 0px 8px;
+	margin-bottom:0px;
+	
+}
+
+#learningContent ul li:last-child{
+margin-bottom:0px;
+}
+
+#learningContent ul li{
+line-height:1.2;
+}
+
+.scenerio-instruction-text ul li{
+	
+}
+
+.scenerio-bg  .scenerio-model-dial, .scenerio-bg   .continue_screen, .scenerio-bg   .endingConversation{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+	
+    
+    text-align: center;
+    
+}
+
+
+
+
+
+.scenerio-bg  .scenerio-model-dial p, .scenerio-bg   .timeSlot, .scenerio-bg   .endingConversation p{
+	color:#fff;
+	margin-top: 36%;
+	
+    font-family: Arial;
+}
+
+.scenerio-bg  .continue_screen p{
+	color:#fff;
+	
+}
+
+.scenerio-bg .scenerio-model-dial .btn-info.custom-btn, .scenerio-bg .continue_screen .btn-info.custom-btn, .scenerio-bg .endingConversation .btn-info.custom-btn, .scenerio-bg .continue_screen .btn-info.custom-btn, .scenerio-bg .cyu-screen .btn-info.custom-btn {
+	border-radius: 30px;
+    background-color: #0090DA;
+    /* margin-top: 30px; */
+    font-weight: bold;
+    font-size: 1em !important;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);
+    display: inline-block;
+    padding: 0px 17px;
+    width: 170px;
+    height: 50px;
+    line-height: 50px;
+    position: absolute;
+    bottom: 4%;
+    left: 50%;
+    margin-left: -85px;
+}
+
+/* .scenerio-bg .cyu-screen .btn-info.custom-btn{
+	border-radius:30px;
+	background-color: #0090DA;
+	position:absolute;
+	bottom:4%;
+	margin-left:-85px;
+	
+	left:50%;
+	font-size: 1.2em;
+	font-weight:bold;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);
+	display: inline-block;
+    padding: 15px;
+    width: 170px;
+} */
+
+
+
+.scenerio-bg  .continue_screen div.play-pause-btn, .scenerio-bg  .endingConversation div.play-pause-btn {
+	position: absolute;
+    top: 73%;
+    left: 100%;
+    margin-left: -34px;
+    border-radius: 50%;
+   
+    padding: 7px;
+    width: 28px;
+    height: 28px;
+	cursor:pointer;
+}
+
+
+
+
+
+
+
+
+.scenerio-bg  .cyu-screen div.play-pause-btn{
+	position: absolute;
+    top: 65%;
+    left: 83%;
+    border-radius: 50%;
+    background-color: #fff;
+    padding: 3px 0px 0px 7px;
+    width: 21px;
+    height: 21px;
+}
+
+.scenerio-bg  .play-pause-btn i.fa.fa-stop fa fa-play {
+    color: #0090DA;
+}
+
+
+.scenerio-bg  .popup #learningContent{
+	position:absolute;
+	top:20%;
+	font-family:Arial;
+	color:#000;
+	left: 2%;
+    right: 2%;
+	padding-right:0px;
+	height:225px;
+}
+
+.popup #learningContent p{
+
+
+}
+
+.scenerio-bg  .popup #learningContent p{
+margin-bottom:10px !important
+padding-right:10px;    
+
+}
+
+
+.scenerio-bg  .popup {
+	    border-radius: 3px;
+    background-color: #fff;
+    position: absolute;
+    top: 15%;
+    left: 0%;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+	
+    /* margin: 0px auto; */
+    height: 80%;
+    /* transform: translate(-50%,-50%); */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+
+.scenerio-bg  .popup_feedbackscreen {
+	border-radius: 3px;
+    background-color: #fff;
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    width: 95%;
+    height: 57%;
+    
+    transform: translate(-50%,-53%)!important;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+}
+
+.scenerio-bg  .popup_showdetailscreen {
+	border-radius: 3px;
+    background-color: #fff;
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    width: 95%;
+    height: 95%;
+    size: 1.4em;
+    transform: translate(-50%,-43%)!important;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.scenerio-bg  #close_showdetails{
+	position: absolute;
+    right: 2%;
+    top: 3%;
+    font-size: 1.8em;
+	cursor:pointer;
+}
+
+.scenerio-bg  #startCall_btn{
+	    position: absolute;
+    /* transform: translate(-50%, -85%); */
+    bottom: 4%;
+    left: 50%;
+    margin-left: -85px;
+    height: 50px;
+    line-height: 50px;
+    width: 170px;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: #0090DA;
+    padding: 0px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);
+}
+
+.scenerio-bg  #feedback_showdetails{
+	position: absolute;
+    bottom: 28%;
+    left: 50%;
+    margin-left: -84px;
+    width: 168px;
+    height: 40px;
+    font-size: 1.2em;
+    background-color: #fff;
+    border: 1px solid #0090DA !important;
+    color: #0090DA;
+    
+	
+}
+
+.scenerio-bg  #feedback_continue{
+	    border-radius: 30px;
+    background-color: #0090DA;
+    /* margin-top: 30px; */
+    font-weight: bold;
+    font-size: 1em !important;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);
+    display: inline-block;
+    padding: 0px 17px;
+    width: 170px;
+    height: 50px;
+    line-height: 50px;
+    position: absolute;
+    bottom: 4%;
+    left: 50%;
+    margin-left: -85px;
+}
+
+
+.scenerio-bg  #calling_person{
+	position: absolute;
+	width: 124px;
+    height: 124px;
+    top: -15%;
+    left: 42%;
+    border: 4px solid white;
+}
+
+.scenerio-bg  .progress-bar1{
+	    position: absolute;
+   
+    top: 8%;
+    left: 50%;
+    margin-left: -50px;
+}
+
+.scenerio-bg  .scorebar_content{
+	width: 100%;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.scenerio-bg  .popup .img-rounded{
+	border-radius:75px;
+}
+
+.scenerio-bg  .popup_feedbackscreen #feedbackContent{
+	position:absolute;
+	
+	font-family:Arial;
+	color:#000;
+	padding:25px;
+}
+
+.scenerio-bg  .popup_feedbackscreen #feedbackContent p{
+	color:#000000;
+}
+
+.scenerio-bg  .cyu-screen .img-rounded{
+	border-radius:75px;
+}
+
+
+.scenerio-bg  #screenoption{
+	width:94%;
+	margin:0px auto;
+}
+
+.scenerio-bg  #iconspace{
+	width:97%;
+	padding-top:120px;
+	margin:0px auto;
+	/*padding-bottom:15px;*/
+}
+
+/* .scenerio-bg  #messageicons{
+	position: absolute;
+    font-size: 3em;
+    color: white;
+	left: 3%;
+    top: 18%; 
+} */
+	
+.scenerio-bg  .card-text{
+	color:black;
+	font-family: Arial;
+	padding:6px;
+}
+
+
+.scenerio-bg  .cyu-screen{
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+.scenerio-bg  .cyu_image{
+    position: absolute;
+    /* transform: translate(-50%, -5%); */
+    width: 96px;
+    height: 96px;
+    top: 5%;
+    left: 50%;
+    margin-left: -43px;
+    border: 4px solid white;
+    border-radius: 75px;
+}
+
+.scenerio-bg  .cyu_image #cyuContentImage{
+	
+}
+
+
+.scenerio-bg  .card {
+	margin-bottom:10px !important;
+}
+
+
+.scenerio-bg  #hinticons, .scenerio-bg #messageicons{
+    color: white;
+    position: absolute;
+    top: 21%;
+    
+    font-size: 3em;
+    cursor: pointer;
+}
+.scenerio-bg  #hinticons{
+right: 3%;
+}
+
+.scenerio-bg  #messageicons{
+left: 3%;
+}
+/* .scenerio-bg  .hint_popup{
+	position: absolute;
+    z-index: 10;
+    top: 49%;
+    left: 50%;
+    background-color: white;
+    width: 96%;
+    height: 67%;
+    border-radius: 3px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    transform: translate(-50%,-30%);
+	
+} */
+
+.scenerio-bg  #hint_content{
+	color: #DB0A5B;
+	padding: 20px;
+	
+	padding-bottom:0px;
+}
+
+.scenerio-bg  #continue_nextsituation_btn{
+	position: absolute;
+    bottom: 4%;
+    left: 50%;
+	margin-left:-70px;
+    
+    pointer-events: none;
+    background-color:#A7A8AA;
+    width: 140px;
+    height: 50px;
+    
+	font-weight:bold;
+    /* padding: 17px; */
+	border-color:#A7A8AA;
+}
+
+.scenerio-bg  hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    /*margin-left: 1rem;*/
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+	width: 97%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.scenerio-bg  #image_break{
+	background-color: white;
+	opacity:.6;
+	/*margin-left: 0px;*/
+}
+
+.scenerio-bg  #hint_heading{
+	color: #DB0A5B;
+	padding: 20px;
+}
+
+.scenerio-bg  #close_hint{
+	position: absolute;
+    top: 3%;
+    right: 2%;
+    font-size: 1.8em;
+    color: black;
+	cursor:pointer;
+}
+
+.scenerio-bg  .card{
+	cursor:pointer;
+	
+	line-height:1.2em;
+}
+
+
+.scenerio-bg .positivefeedback, .scenerio-bg .negativefeedback, .hint_popup {
+	    position: absolute;
+    z-index: 10;
+    top: 30%;
+    left: 3%;
+    right: 3%;
+    background-color: white;
+    width: 94%;
+    height: 66%;
+    border-radius: 3px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    /* transform: translate(-50%,-22%); */
+}
+
+
+.scenerio-bg  .positivefeedback p, .scenerio-bg  .positivefeedback ul li{
+	color:#000000;
+}
+
+.scenerio-bg  .positivefeedback ul li:last-child{
+	margin-bottom:0px;
+}
+
+.scenerio-bg  .negativefeedback p{
+	color:#000000;
+}
+
+.scenerio-bg  #continue_withpositiveresponse_btn{
+	position: absolute;
+    
+	bottom:4%;
+    
+}
+	
+	
+.scenerio-bg  #positivefeedback_heading, .scenerio-bg #negativefeedback_heading{
+	margin-left: 20px;
+    margin-top: 20px;
+	font-weight:bold;
+}
+
+.scenerio-bg  #positivefeedbackcontent, .scenerio-bg  #negativefeedbackcontent{
+	color:black;
+	padding:0px 20px;
+	
+	
+}
+
+.scenerio-bg  .points{
+	    position: absolute;
+    height: 20px;
+    width: 20px;
+    top: 21.8%;
+    left: 6.5%;
+    border: 1px solid #A7A8AA;
+    padding: 3px !important;
+}
+
+
+
+
+
+	
+	
+.scenerio-bg  #negativefeedback_heading{
+	/* margin-left: 20px;
+    margin-top: 20px; */
+	font-weight:bold;
+}
+
+.scenerio-bg  #negativefeedbackcontent{
+	
+	/* padding:20px; */
+	line-height:1.2em;
+}
+
+.scenerio-bg  .cyu-screen .badge {
+	
+}
+
+.scenerio-bg  .cyu-screen .w-75 {
+	left: -5%;
+    width: 88%!important;
+}
+
+
+
+
+
+.scenerio-bg  .progress-bar1 div {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+ 
+.scenerio-bg  .progress-bar1 div span {
+position: absolute;
+font-family: Arial;
+font-size: 25px;
+line-height: 90px;
+height: 90px;
+width: 90px;
+left: 5px;
+top: 5px;
+text-align: center;
+border-radius: 50%;
+background-color: white;
+}
+
+.scenerio-bg  .progress-bar1 .background { background-color: #b3cef6; }
+ 
+.scenerio-bg  .progress-bar1 .rotate {
+  clip: rect(0 50px 100px 0);
+  background-color: #4b86db;
+}
+ 
+.scenerio-bg  .progress-bar1 .left {
+  clip: rect(0 50px 100px 0);
+  opacity: 1;
+  background-color: #b3cef6;
+}
+ 
+.scenerio-bg  .progress-bar1 .right {
+  clip: rect(0 50px 100px 0);
+  transform: rotate(180deg);
+  opacity: 0;
+  background-color: #4b86db;
+}
+ 
+
+
+
+
+.scenerio-bg  .showdetails_content{
+	line-height: 2;
+    padding: 12px !important;
+  
+    font-family: Arial;
+    margin-left: 155px;
+    font-weight: bold;
+    /* margin-right: -170px; */
+	padding-left:0 !important;
+}
+
+.scenerio-bg  .showdetails_heading{
+    
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: 55px;
+	margin-left: 155px;
+	line-height: 0.8;
+	padding-bottom:10px;
+	/* margin-right:-130px; */
+}
+
+.showdetails_heading .elem, .showdetails_content .elem{
+width:45%;
+float:left;
+line-height:1.2em;
+}
+.showdetails_content .main_elem{
+overflow:hidden;
+margin-bottom:15px;
+}
+
+.showdetails_heading .elem:last-child{
+text-align:center;
+}
+
+.showdetails_content .elem:nth-child(even) {
+text-align:center;
+}
+
+/* .showdetails_heading .elem:last-child, .showdetails_content .elem{
+text-align:center;
+} */
+
+.scenerio-bg  .showdetails_headingseparation{
+	border-top: 1px solid #000;
+    
+    width: 90%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.scenerio-bg  .scorebar_content{
+    color: white;
+    font-weight: bold;
+    
+	font-family: Arial;
+}
+
+.scenerio-bg  .Detailscreenicon{
+	font-size:1.4em
+}
+
+.scenerio-bg  #feedback_Tryagain{
+	    border-radius: 30px;
+    background-color: #0090DA;
+    /* margin-top: 30px; */
+    font-weight: bold;
+    font-size: 1em !important;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);
+    display: inline-block;
+    padding: 0px 17px;
+    width: 170px;
+    height: 50px;
+    line-height: 50px;
+    position: absolute;
+    bottom: 4%;
+    left: 50%;
+    margin-left: -85px;
+}
+
+
+.scenerio-bg  .card-body{
+	padding: 0.5rem !important;
+	
+}
+
+
+.scenerio-bg  .feedbackscreen{
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+.scenerio-bg  .showdetailfeedbackscreen{
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+	
+}
+
+
+.scenerio-bg  #hint_heading{
+		padding-bottom: 0px;
+		padding-top: 10px;
+	}
+	
+.scenerio-bg  #hint_separation{
+	margin-bottom: 24px;
+	margin-top: 10px;
+	border-bottom: 1px solid #000;
+}
+	
+	.scenerio-bg  #hint_content{
+		padding-bottom: 0px;
+		padding-top: 0px;
+	}
+	
+	
+	
+	
+.scenerio-bg  .scenerio-instruction-text p{
+	font-size:1.4em;
+	font-family:Arial;
+	padding-right:15px;
+}
+
+/* for iphone app view portrait starts */
+
+.portraitView .scenerio-bg #hinticons, .portraitView .scenerio-bg #messageicons{
+	top:19%;
+}
+
+.portraitView .desktop-bg-img{
+		display:none;
+	}
+	.portraitView .mobile-bg-img{
+		display:block;
+	}
+	
+	.portraitView .scenerio-bg  .positivefeedback, .scenerio-bg .negativefeedback{
+	top:27%;
+	height:70%;
+	
+	}
+	
+	.portraitView .scenerio-bg #stopBtnCyu{
+		left:0px;
+	}
+	
+	.portraitView .scenerio-bg  .screen_image{
+	width:50%;
+	}
+
+
+
+.portraitView .scenerio-bg .showdetails_heading .col-4{
+	text-align:center;	
+}
+
+.portraitView .logo-section.mobile-padding-leftRight0 {
+   background-color: #fff;
+	text-align: center; 
+	padding-right:0;
+	padding-left:0;
+}
+.portraitView .logo-section{
+display: block;
+}
+
+
+.portraitView .mcqBackBtn{
+	margin-left: 0px;
+    padding-left: 34px;	
+}
+
+
+
+
+.portraitView .on-mobile-hide{
+	
+	display:none !important;
+	
+}
+
+.portraitView .scenerio-bg  .hintScrollClass {
+    height: 255px;
+	overflow-y:auto;
+}
+
+
+.portraitView .logo-section img {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.portraitView #image_break{
+	margin-left: 7px;
+}
+
+
+	
+	.portraitView .scenerio-bg .scenerio-model-dial .btn-info.custom-btn, .portraitView  .scenerio-bg .continue_screen .btn-info.custom-btn, .portraitView  .scenerio-bg .endingConversation .btn-info.custom-btn, .portraitView  .scenerio-bg .continue_screen .btn-info.custom-btn {
+		margin-top:40px;
+	}
+	
+	.portraitView .scenerio-bg  .showdetails_content{
+	
+		margin-left: 30px !important;
+		
+	}
+	
+	.portraitView .scenerio-bg  .showdetails_heading{
+		line-height:1;
+		
+	}
+	
+	.portraitView .scenerio-bg  .showdetails_headingseparation{
+		margin-left: 14px;
+		
+	}
+	.portraitView .scenerio-bg  .showdetails_heading{
+		margin-left: 30px;
+		/* margin-right: -38px; */
+	}
+	
+	
+	.portraitView .scenerio-bg  .scenerio-model-dial p {
+		margin-top: 70%;
+		
+	}
+	
+	.portraitView .scenerio-bg   .timeSlot,.portraitView  .scenerio-bg  .endingConversation p{
+	margin-top: 71%;
+	
+	}
+	.portraitView .scenerio-bg  #contentHeadingWrapper_scenerio {
+		display: block;
+	}
+	
+	.portraitView .width10 {
+		float: left;
+	
+		position: relative;
+		top: 17px;
+		width:10%;
+	}
+	
+	
+	
+	.portraitView .card-body {
+    padding: 0.3rem !important;
+	}
+	
+	
+	
+	
+	.portraitView .scenerio-bg  #close_hint{
+		top: 2% !important;
+		left: 90% !important;
+	}	
+
+	.portraitView .scenerio-bg  #hint_separation{
+		width:90%;
+		border-bottom: 1px solid #000;
+	}
+	.portraitView .scenerio-bg  #iconspace{
+	width:97%;
+	padding-top:116px;
+	margin:0px auto;
+	padding-bottom:0px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	.portraitView .scenerio-bg  #feedback_showdetails{
+		bottom: 24%;
+		
+	}
+	
+	.portraitView .scenerio-bg  #feedback_Tryagain{
+		bottom:5%;
+		
+	}
+	
+	.portraitView .scenerio-bg  #feedback_continue{
+		bottom:5%;
+		
+	}
+	
+	.portraitView .scenerio-bg  .popup_feedbackscreen{
+		top: 66%;
+		left: 50%;
+		width: 89%;
+		height: 65%;	
+	}
+	.portraitView .scenerio-bg  .popup_feedbackscreen #feedbackContent{
+		padding: 15px !important;
+	}
+	.portraitView .scenerio-bg  .scorebar_content{
+		top: 5% !important;
+	}
+	
+
+
+
+
+
+	
+.portraitView .scenerio-bg  .popup #learningContent{
+	top: 11%;
+    font-family: Arial;
+    padding: 8px;
+	padding-bottom:0px;
+	height: 280px;
+	overflow-y:auto;
+}
+
+.portraitView .scenerio-bg #positivefeedbackcontent {
+    color: black;
+    padding: 20px;
+    height: 188px;
+	overflow-y:auto;
+}
+
+
+.portraitView .scenerio-bg  #calling_person{
+	width: 76px;
+    height: 76px;
+    top: -9%;
+    left: 39%;
+}
+
+.portraitView .small_font{
+		font-size:0.8em;
+		line-height: 0.9;
+	}
+
+
+
+.portraitView .scenerio-bg  #close_showdetails {
+    
+	right:4%;
+    top: 2%;
+}
+
+
+
+
+
+.portraitView .scenerio-bg  #messageicons{
+	left: 3%;
+    top: 16%;
+}
+.portraitView .scenerio-bg #hinticons, .portraitView .scenerio-bg #messageicons{
+	top:19%;
+}
+
+
+.portraitView .scenerio-bg  .points{
+	/* margin-left: 38px;
+    margin-top: -45px; */
+	    top: 19.8%;
+    left: 11.5%;
+}
+
+.scenerio-bg  .popup_showdetailscreen{
+	width: 97%;
+    height: 97%;
+    top: 43%;
+}
+
+.portraitView .scenerio-bg  .popup_feedbackscreen #feedbackContent{
+
+	
+}
+
+.portraitView .scenerio-bg  .scenerio-bg .thumbnail-profile{
+		width: 200px;
+		height: auto;
+	}
+/* for iphone app view portrait ends */
+	
+/* for iphone app view landscape */
+
+.landscapeView .desktop-bg-img{
+		display:block;
+	}
+	
+	.landscapeView .small_font{
+		font-size:0.8em;
+		line-height: 0.9;
+	}
+	
+		.landscapeView .scenerio-bg #hinticons, .landscapeView .scenerio-bg #messageicons {
+    
+    top: 23%;
+    
+}
+	
+	
+	.landscapeView .mobile-bg-img{
+		display:none;
+	}
+	
+	.landscapeView .scenerio-bg #close_hint{
+		right:2%;
+	}
+	
+	.scenerio-bg .progress-bar1{
+		top:7%;
+	}
+	
+	.landscapeView .scenerio-bg #close_hint {
+    top: 5%;
+    left: 94%;
+}
+	
+	
+	.landscapeView .scenerio-bg .points{
+	   /*   margin-top: -46px;
+    margin-left: 44px; */
+	top: 24%;
+    left: 8.5%;
+	}
+	
+	
+	
+	.landscapeView .scenerio-bg .negativefeedback, .landscapeView  .scenerio-bg .positivefeedback{
+	top:35%;
+	height:62%;
+	}
+	
+	
+	
+	.landscapeView .scenerio-bg #stopBtnCyu{
+	left:0px;
+	}
+	.landscapeView .scenerio-bg  .hintScrollClass{
+	height:165px;
+	overflow-y:auto;
+	}
+	
+	.landscapeView .scenerio-bg .screen_image{
+	width:25%;
+	}
+	
+	.landscapeView .logo-section.mobile-padding-leftRight0 {
+   background-color: #fff;
+	text-align: center; 
+	padding-right:0;
+	padding-left:0;
+}
+.landscapeView .logo-section{
+display: block;
+}
+
+
+
+
+
+.landscapeView .mcqBackBtn{
+	margin-left: 0px;
+    padding-left: 34px;	
+}
+
+
+
+
+
+.landscapeView .on-mobile-hide{
+	
+	display:none !important;
+	
+}
+
+
+.landscapeView .logo-section img {
+	text-align: center;
+	margin: 0 auto;
+}
+
+	
+	
+	
+	.landscapeView .width10 {
+		float: left;
+		
+		position: relative;
+		top: 17px;
+		width:10%;
+	}
+	
+	.landscapeView .scenerio-bg  #positivefeedbackcontent{
+		margin-top: 7px;
+		height:105px;
+	}
+	.landscapeView .scenerio-bg  #negativefeedbackcontent{
+		margin-top: 7px;
+		height:105px;
+	}
+	
+	.landscapeView .scenerio-bg  #contentHeadingWrapper_scenerio{
+		display:none !important;
+	}	
+	
+	
+	
+	.landscapeView .scenerio-bg  #calling_person{
+		left: 42%;
+		width: 76px;
+		height: 76px;
+		top: -14%;
+	}
+	
+	
+	
+	
+	
+	.landscapeView .scenerio-bg  .popup #learningContent{
+		top:17%;
+		height:170px;
+		overflow-y:auto;
+	}
+	
+	.landscapeView .scenerio-bg  .scenerio-model-dial p, .landscapeView  .scenerio-bg  .timeSlot, .landscapeView  .scenerio-bg  .endingConversation p{
+		margin-top: 33%;	
+	}
+	
+	
+	
+	
+	.landscapeView .scenerio-bg  #feedback_showdetails{
+		    
+    left: 33%;	
+	bottom:6%;
+	}
+	.landscapeView .scenerio-bg  #feedback_Tryagain{
+	
+    left: 65%;
+	}
+	.landscapeView .scenerio-bg  #feedback_continue{
+		
+		left: 65%;
+	}
+	.landscapeView .scenerio-bg  .card-body {
+    padding: 0.1rem !important;
+	}
+	
+	.landscapeView .scenerio-bg  #iconspace{
+		padding-top: 104px;
+	}
+	
+	.landscapeView .scenerio-bg  .hint_popup{
+		    top: 35%;
+    height: 63%;
+    
+	}
+	
+	.landscapeView .scenerio-bg  #close_hint{
+		top: 5%;
+		left: 94%;	
+	}
+	
+	
+	
+	
+	
+	
+	
+	.landscapeView .scenerio-bg  .popup_feedbackscreen #feedbackContent{
+		top:0%;
+		
+	}
+	.landscapeView .scenerio-bg  .scenerio-bg .thumbnail-profile{
+		top:16%;
+		width: 200px;
+		height: auto;
+	}
+	
+	.landscapeView .scenerio-bg  #hint_heading{
+		padding-bottom: 0px;
+		padding-top: 10px;
+	}
+	
+	.landscapeView .scenerio-bg  #hint_separation{
+		margin-bottom: 10px;
+		margin-top: 10px;
+		border-bottom: 1px solid #000;
+		width: 95%;
+	}
+	
+	.landscapeView .scenerio-bg  #hint_content{
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom:6px;
+	}
+	
+	
+	.landscapeView .scenerio-bg  .popup_feedbackscreen{
+		height: 60%;
+		
+	}
+	
+	.landscapeView .scenerio-bg  .showdetails_headingseparation{
+		margin-left: 29px;
+	}
+	
+	.landscapeView .scenerio-bg  .showdetails_content{
+		margin-left: 84px;
+		
+		
+	}
+	
+	.landscapeView .scenerio-bg  .showdetails_heading{
+		margin-top: 55px;
+		margin-left:84px;
+	}
+	
+	/* for iphone app landscape view */
+
+		
+	.landscapeView .scenerio-bg .progress-bar1{
+	top:8%
+	
+	}
+	
+	.landscapeView .scenerio-bg .popup_showdetailscreen{
+	top: 43%;
+	width:97%
+	}
+	
+	.landscapeView .scenerio-bg .showdetails_content{
+		margin-left:84px;
+	}
+	
+	
+
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) and (orientation : portrait) {
+.desktop-bg-img{
+		display:none;
+	}
+	.mobile-bg-img{
+		display:block;
+	}
+	.small_font{
+		font-size:0.8em;
+		line-height: 0.9;
+	}
+	
+	
+	.scenerio-bg  .positivefeedback, .scenerio-bg .negativefeedback{
+	top:27%;
+	height:70%;
+	
+	}
+	
+	.scenerio-bg #stopBtnCyu{
+		left:0px;
+	}
+	
+	.scenerio-bg  .screen_image{
+	width:50%;
+	}
+
+
+
+.scenerio-bg .showdetails_heading .col-4{
+	text-align:center;	
+}
+
+.logo-section.mobile-padding-leftRight0 {
+   background-color: #fff;
+	text-align: center; 
+	padding-right:0;
+	padding-left:0;
+}
+.logo-section{
+display: block;
+}
+
+
+.mcqBackBtn{
+	margin-left: 0px;
+    padding-left: 34px;	
+}
+
+
+
+
+.on-mobile-hide{
+	
+	display:none !important;
+	
+}
+
+.scenerio-bg  .hintScrollClass {
+    height: 255px;
+	overflow-y:auto;
+}
+
+
+.logo-section img {
+	text-align: center;
+	margin: 0 auto;
+}
+
+#image_break{
+	margin-left: 7px;
+}
+
+
+	
+	.scenerio-bg .scenerio-model-dial .btn-info.custom-btn,  .scenerio-bg .continue_screen .btn-info.custom-btn, .scenerio-bg .endingConversation .btn-info.custom-btn,  .scenerio-bg .continue_screen .btn-info.custom-btn {
+		margin-top:40px;
+	}
+	
+	.scenerio-bg  .showdetails_content{
+	
+		margin-left: 30px !important;
+		
+	}
+	
+	.scenerio-bg  .showdetails_heading{
+		line-height:1;
+		
+	}
+	
+	.scenerio-bg  .showdetails_headingseparation{
+		margin-left: 14px;
+		
+	}
+	.scenerio-bg  .showdetails_heading{
+		margin-left: 30px;
+		/* margin-right: -38px; */
+	}
+	
+	
+	.scenerio-bg  .scenerio-model-dial p {
+		margin-top: 70%;
+		
+	}
+	
+	.scenerio-bg   .timeSlot, .scenerio-bg  .endingConversation p{
+	margin-top: 71%;
+	
+	}
+	.scenerio-bg  #contentHeadingWrapper_scenerio {
+		display: block;
+	}
+	
+	.width10 {
+		float: left;
+	
+		position: relative;
+		top: 17px;
+		width:10%;
+	}
+	
+	
+	
+	.card-body {
+    padding: 0.3rem !important;
+	}
+	
+	
+	
+	
+	.scenerio-bg  #close_hint{
+		top: 2% !important;
+		left: 90% !important;
+	}	
+
+	.scenerio-bg  #hint_separation{
+		width:90%;
+		border-bottom: 1px solid #000;
+	}
+	.scenerio-bg  #iconspace{
+	width:97%;
+	padding-top:116px;
+	margin:0px auto;
+	padding-bottom:0px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	.scenerio-bg  #feedback_showdetails{
+		bottom: 24%;
+		
+	}
+	
+	.scenerio-bg  #feedback_Tryagain{
+		bottom:5%;
+		
+	}
+	
+	.scenerio-bg  #feedback_continue{
+		bottom:5%;
+		
+	}
+	
+	.scenerio-bg  .popup_feedbackscreen{
+		top: 66%;
+		left: 50%;
+		width: 89%;
+		height: 65%;	
+	}
+	.scenerio-bg  .popup_feedbackscreen #feedbackContent{
+		padding: 15px !important;
+	}
+	.scenerio-bg  .scorebar_content{
+		top: 5% !important;
+	}
+	
+
+
+
+
+
+	
+.scenerio-bg  .popup #learningContent{
+	top: 11%;
+    font-family: Arial;
+    padding: 8px;
+	padding-bottom:0px;
+	height: 280px;
+	overflow-y:auto;
+}
+
+.scenerio-bg #positivefeedbackcontent {
+    color: black;
+    padding: 20px;
+    height: 188px;
+	overflow-y:auto;
+}
+
+
+.scenerio-bg  #calling_person{
+	width: 76px;
+    height: 76px;
+    top: -9%;
+    left: 39%;
+}
+
+
+
+.scenerio-bg  #close_showdetails {
+    
+	right:4%;
+    top: 2%;
+}
+
+
+
+
+
+.scenerio-bg #hinticons, .scenerio-bg #messageicons{
+top:19%;
+}
+
+
+.scenerio-bg  .points{
+	/* margin-left: 38px;
+    margin-top: -45px; */
+	    top: 19.8%;
+    left: 11.5%;
+}
+
+.scenerio-bg  .popup_showdetailscreen{
+	width: 89%;
+    height: 97%;
+    top: 43%;
+}
+
+.scenerio-bg  .popup_feedbackscreen #feedbackContent{
+
+	
+}
+
+.scenerio-bg  .scenerio-bg .thumbnail-profile{
+		width: 200px;
+		height: auto;
+	}
+	
+	/* Track */
+	::-webkit-scrollbar-track {
+		background: #f1f1f1; 
+	}
+	/* Handle */
+	::-webkit-scrollbar-thumb {
+		background: #888; 
+	}
+	/* Handle on hover */
+	::-webkit-scrollbar-thumb:hover {
+		background: #555; 
+	}
+
+	
+} 
+
+
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) and (orientation : landscape) {
+	
+	.scenerio-bg .popup_showdetailscreen{
+	top: 43%;
+	width:97%;
+	}
+	
+	.small_font{
+		font-size:0.8em;
+		line-height: 0.9;
+	}
+	
+	.scenerio-bg #hinticons, .scenerio-bg #messageicons {
+    
+    top: 23%;
+    
+}
+	
+	
+	
+	.desktop-bg-img{
+		display:block;
+	}
+	.mobile-bg-img{
+		display:none;
+	}
+		
+	
+	
+	
+	.scenerio-bg .progress-bar1{
+	top:8%
+	
+	}
+		
+	.scenerio-bg .points{
+	          /* margin-top: -46px;
+    margin-left: 44px; */
+	top: 24%;
+    left: 8.5%;
+	}
+	
+	
+	
+	.scenerio-bg .negativefeedback, .scenerio-bg .positivefeedback{
+	top:35%;
+	height:62%;
+	}
+	
+	
+	
+	.scenerio-bg #stopBtnCyu{
+	left:0px;
+	}
+	.scenerio-bg  .hintScrollClass{
+	height:165px;
+	overflow-y:auto;
+	}
+	
+	.scenerio-bg .screen_image{
+	width:25%;
+	}
+	
+	.logo-section.mobile-padding-leftRight0 {
+   background-color: #fff;
+	text-align: center; 
+	padding-right:0;
+	padding-left:0;
+}
+.logo-section{
+display: block;
+}
+
+
+
+
+
+.mcqBackBtn{
+	margin-left: 0px;
+    padding-left: 34px;	
+}
+
+
+
+
+
+.on-mobile-hide{
+	
+	display:none !important;
+	
+}
+
+
+.logo-section img {
+	text-align: center;
+	margin: 0 auto;
+}
+
+	
+	
+	
+	.width10 {
+		float: left;
+		
+		position: relative;
+		top: 17px;
+		width:10%;
+	}
+	
+	.scenerio-bg  #positivefeedbackcontent{
+		margin-top: 7px;
+		height:105px;
+	}
+	.scenerio-bg  #negativefeedbackcontent{
+		margin-top: 7px;
+		height:105px;
+	}
+	
+	.scenerio-bg  #contentHeadingWrapper_scenerio{
+		display:none !important;
+	}	
+	
+	
+	
+	.scenerio-bg  #calling_person{
+		left: 42%;
+		width: 76px;
+		height: 76px;
+		top: -14%;
+	}
+	
+	
+	
+	
+	
+	.scenerio-bg  .popup #learningContent{
+		top:17%;
+		height:170px;
+		overflow-y:auto;
+	}
+	
+	.scenerio-bg  .scenerio-model-dial p, .scenerio-bg  .timeSlot, .scenerio-bg  .endingConversation p{
+		margin-top: 33%;	
+	}
+	
+	
+	
+	
+	.scenerio-bg  #feedback_showdetails{
+		    
+    left: 33%;	
+	bottom:6%;
+	}
+	.scenerio-bg  #feedback_Tryagain{
+	
+    left: 65%;
+	}
+	.scenerio-bg  #feedback_continue{
+		
+		left: 65%;
+	}
+	.scenerio-bg  .card-body {
+    padding: 0.1rem !important;
+	}
+	
+	.scenerio-bg  #iconspace{
+		padding-top: 104px;
+	}
+	
+	.scenerio-bg  .hint_popup{
+		    top: 35%;
+    height: 63%;
+    
+	}
+	
+	.scenerio-bg  #close_hint{
+		top: 5%;
+		left: 94%;	
+	}
+	
+	
+	
+	
+	
+	
+	
+	.scenerio-bg  .popup_feedbackscreen #feedbackContent{
+		top:0%;
+		
+	}
+	.scenerio-bg  .scenerio-bg .thumbnail-profile{
+		top:16%;
+		width: 200px;
+		height: auto;
+	}
+	
+	.scenerio-bg  #hint_heading{
+		padding-bottom: 0px;
+		padding-top: 10px;
+	}
+	
+	.scenerio-bg  #hint_separation{
+		margin-bottom: 10px;
+		margin-top: 10px;
+		border-bottom: 1px solid #000;
+		width: 95%;
+	}
+	
+	.scenerio-bg  #hint_content{
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom:6px;
+	}
+	
+	
+	.scenerio-bg  .popup_feedbackscreen{
+		height: 60%;
+		
+	}
+	
+	.scenerio-bg  .showdetails_headingseparation{
+		margin-left: 29px;
+	}
+	
+	.scenerio-bg  .showdetails_content{
+		margin-left: 84px;
+		
+		
+	}
+	
+	.scenerio-bg  .showdetails_heading{
+		margin-top: 55px;
+		margin-left:84px;
+	}
+	
+	/* Track */
+	::-webkit-scrollbar-track {
+		background: #f1f1f1; 
+	}
+	/* Handle */
+	::-webkit-scrollbar-thumb {
+		background: #888; 
+	}
+	/* Handle on hover */
+	::-webkit-scrollbar-thumb:hover {
+		background: #555; 
+	}
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1023px) and (orientation : portrait) {
+.scenerio-bg #calling_person{
+	top:-18%;
+}
+
+.small_font{
+		font-size:0.8em;
+		line-height: 0.9;
+	}
+
+.scenerio-bg .popup #learningContent{
+top:25%;
+    height: 144px;
+	overflow-y:auto;
+	padding-right:10px;
+}
+
+.scenerio-bg  .screen_image{
+	width:30%;
+	}
+	.scenerio-bg #iconspace{
+		padding-top: 105px;
+	}
+	.scenerio-bg #image_break{
+		    margin-bottom: 0.5rem;
+	}
+	
+	.main_elem .elem img{
+	margin-top:2px;
+	}
+	
+	.scenerio-bg #hinticons, .scenerio-bg #messageicons{
+top:24%;
+}
+	
+	.scenerio-bg .positivefeedback, .scenerio-bg .negativefeedback, .hint_popup{
+		top:36%;
+	}
+	
+	.scenerio-bg #hint_separation{
+	margin-bottom:16px;
+	}
+	
+	.scenerio-bg .hintScrollClass{
+		height:143px;
+		overflow-y:auto;
+	}
+	
+	.scenerio-bg .positivefeedback, .scenerio-bg .negativefeedback, .hint_popup{
+		height:60%;
+	}
+	.scenerio-bg #feedback_Tryagain, .scenerio-bg #feedback_continue{
+	left: 66%;
+	bottom:4%;
+	}
+	
+	.scenerio-bg #feedback_showdetails{
+		bottom: 6%;
+    left: 33%;
+	}
+	.scenerio-bg .points{
+	    top: 24.8%;
+    left: 8.2%;
+	}
+	/* Track */
+	::-webkit-scrollbar-track {
+		background: #f1f1f1; 
+	}
+	/* Handle */
+	::-webkit-scrollbar-thumb {
+		background: #888; 
+	}
+	/* Handle on hover */
+	::-webkit-scrollbar-thumb:hover {
+		background: #555; 
+	}
+
+}
+
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcq>
+<questionText><![CDATA[Jason has called up to ask about MetLife’s Accident Claims insurance. As a tele sales agent, which of the following responses will you choose to open the conversation?]]></questionText>
+<instructionText><![CDATA[Select the correct option and submit.]]></instructionText>
+<options answer="1" attempts="2">
+<option><![CDATA[option 1]]></option>
+<option><![CDATA[option 2]]></option>
+<option><![CDATA[option 3]]></option>
+
+</options>
+
+<feedbacks>
+<feedback type="correct" btnText="Continue" headerText="Correct"><![CDATA[dfjdjfdf   Correct Feedback]]></feedback>
+<feedback type="inCorrect" btnText="Try Aagain" headerText="Incorrect"><![CDATA[InCorrect Feedback]]></feedback>
+<feedback type="attemptOver" btnText="Continue" headerText="Attempts Over"><![CDATA[attepts over Feedback]]></feedback>
+</feedbacks>
+
+</mcq>

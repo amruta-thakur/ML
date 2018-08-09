@@ -1,0 +1,1414 @@
+
+/*html, body{
+   font-family: 'Arial', sans-serif;
+   font-size:16px;
+}*/
+p{
+	/*font-size:1.4em;*/
+	/*padding:5px;*/
+}
+
+
+.width90 {
+    width: 90%;
+    float: left;
+}
+.scenerio-bg .playBtn, .scenerio-bg  .stopBtn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -4px;
+    margin-top: -7px;
+	font-size:0.8em;
+}
+
+.showdetails_content .row .col:nth-child(2){
+text-align: left;
+    margin-left: 50px;
+    margin-top: -4px;
+}
+	
+
+.scenerio-bg  .stopBtn{
+margin-left:-5px;
+}
+
+.scenerio-bg .cyu-screen .stopBtn{
+margin-left:1px;
+}
+
+
+
+
+.scenerio-bg .hintScrollClass{
+padding-right:10px;
+height:190px;
+}
+
+.logo-section {
+	display: none;
+}
+
+.scenerio-bg #playBtn, .scenerio-bg  #stopBtn, .scenerio-bg  #endplayBtn, .scenerio-bg  #endstopBtn, .scenerio-bg  #playBtnCyu, .scenerio-bg  #stopBtnCyu{
+	
+	color:#0090da;
+	
+}
+
+.scenerio-bg  #continue_feedbackscreen_btn.disable{
+                background:#A7A8AA;
+                cursor:default;
+                border-color:#A7A8AA;
+				pointer-events: none;
+}
+
+
+#contentHeadingWrapper_scenerio .video_heading h3.last_viewed {
+    /* font-size: 1.3em; */
+    font-weight: 400;
+    color: #74bbec;
+    padding-top: 9px;
+    margin: 0;
+    text-transform: uppercase;
+}
+.scenerio-bg   .continue_screen div.play-pause-btn{
+	top: 237px;
+    right: 332px;
+}
+
+.scenerio-bg   .endingConversation div.play-pause-btn{
+	top: 237px;
+    right: 332px;
+}
+
+.showdetails_content .row .col{
+	
+	/*text-align:center;*/
+	
+	
+}
+
+.scenerio-bg  #continue_nextscreen_btn.disable{
+	background:#A7A8AA;
+	cursor:default;
+	border-color:#A7A8AA;
+	pointer-events: none;
+}
+
+.scenerio-bg  .cyu-screen ul{
+	color: #DB0A5B;
+	padding: 0px;
+    padding-left: 20px;
+    /*font-size: 1.4em;*/
+	margin-bottom: 0px;
+}
+
+.scenerio-bg  #hint_content p{
+	color: #DB0A5B;
+}
+
+.floatleft {
+    float: left;
+}
+.backIcon {
+	color: #fff;
+}
+#contentHeadingWrapper_scenerio .video_heading h2.topic_title {
+    /* font-size: 1.8em; */
+    font-weight: 500;
+    padding-top: 5px;
+    color: #fff;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+#contentHeadingWrapper_scenerio {
+    background: #004271;
+    display: none;
+    padding: 13px 25px;
+    /* font-size: 0.7em; */
+}
+
+/*** scenerio start page ***/
+
+.scenerio-bg{
+	width:100%;
+	/*height:550px;*/
+}
+.scenerio-bg  .hint-scroll {
+    height: 152px;
+}
+.scenerio-bg #playBtnCyu, .scenerio-bg #stopBtnCyu{
+cursor:pointer;
+position:absolute;
+}
+.scenerio-bg #stopBtnCyu{
+left:5px;
+}
+
+.relative-position{
+	position:relative;
+}
+.scenerio-bg  .scenerio-model {
+	background-color: #fff;
+    width: 90%;
+    margin: 0 auto;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 76px 50px 40px 50px;
+    border-radius: 7px;
+}
+.scenerio-bg .btn-info.custom-btn{
+	border-radius:30px;
+	background-color: #0061A0;
+}
+.scenerio-bg .thumbnail-profile{	
+	position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%,-20%);
+    border-radius: 50%;
+    border: 4px solid #fff;
+	width:100%;
+	max-width:248px;
+	max-height:248px;
+
+}
+
+.scenerio-bg .containerclass{
+	position:relative;
+}
+/*** end ***/
+
+.scenerio-bg  .showdetails_content .row{
+	margin-bottom:20px;
+}
+
+#learningContent ul{
+	padding: 8px;
+}
+
+#learningContent ul li{
+line-height:1.2;
+}
+
+.scenerio-instruction-text ul li{
+	
+}
+/*** dial out page ***/
+.scenerio-bg  .scenerio-model-dial, .scenerio-bg   .continue_screen, .scenerio-bg   .endingConversation{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+	
+    /* margin-top: -50%; */
+    /* margin-left: -50%; */
+    /* transform: translate(-50%, -50%); */
+    text-align: center;
+    /* padding: 144px 50px 40px 50px; */
+}
+}
+}
+
+.scenerio-bg  .continue_screen{
+	position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 144px 50px 40px 50px;	
+}
+
+
+.scenerio-bg  .scenerio-model-dial p, .scenerio-bg   .timeSlot, .scenerio-bg   .endingConversation p{
+	color:#fff;
+	margin-top: 36%;
+	/* font-size: 1.4em; */
+    font-family: Arial;
+}
+
+.scenerio-bg  .continue_screen p{
+	color:#fff;
+	
+}
+
+.scenerio-bg .scenerio-model-dial .btn-info.custom-btn, .scenerio-bg .continue_screen .btn-info.custom-btn, .scenerio-bg .endingConversation .btn-info.custom-btn, .scenerio-bg .continue_screen .btn-info.custom-btn {
+	border-radius:30px;
+	background-color: #0090DA;
+	margin-top: 30px;
+	font-weight:bold;
+	font-size: 1.2em !important;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);
+	display: inline-block;
+    padding: 17px;
+    width: 170px;
+	height: 60px;
+}
+
+.scenerio-bg .cyu-screen .btn-info.custom-btn{
+	border-radius:30px;
+	background-color: #0090DA;
+	margin-top: 90px;
+	font-size: 1.2em;
+	font-weight:bold;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);
+	display: inline-block;
+    padding: 15px;
+    width: 170px;
+}
+
+/*.scenerio-bg .continue_screen .btn-info.custom-btn{
+	border-radius:30px;
+	background-color: #0090DA;
+	margin-top: 90px;
+	font-size: 1.2 em;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+	display: inline-block;
+    padding: 15px;
+    width: 170px;
+}*/
+
+.scenerio-bg  .continue_screen div.play-pause-btn {
+	position: absolute;
+    top: 230px;
+    right: 323px;
+    border-radius: 50%;
+    background-color: #fff;
+    padding: 7px;
+    width: 28px;
+    height: 28px;
+	cursor:pointer;
+}
+
+.scenerio-bg  .endingConversation div.play-pause-btn {
+	position: absolute;
+    top: 230px;
+    right: 323px;
+    border-radius: 50%;
+    background-color: #fff;
+    padding: 3px;
+    width: 28px;
+    height: 28px;
+	cursor:pointer;
+}
+
+
+.scenerio-bg  .cyu-screen div.play-pause-btn{
+	position: absolute;
+        top: 82px;
+    right: 386px;
+    border-radius: 50%;
+    background-color: #fff;
+    padding: 3px 0px 0px 7px;
+    width: 21px;
+    height: 21px;
+}
+
+.scenerio-bg  .play-pause-btn i.fa.fa-stop fa fa-play {
+    color: #0090DA;
+}
+
+
+.scenerio-bg  .popup #learningContent{
+	position:absolute;
+	top:20%;
+	font-family:Arial;
+	color:#000;
+	left: 2%;
+    right: 2%;
+	/* font-size:1.4em; */
+	padding-right:0px;
+    
+/*	<!--overflow-y: scroll;-->*/
+}
+
+.popup #learningContent p{
+
+
+}
+
+.scenerio-bg  .popup #learningContent p{
+margin-bottom:0 !important
+    
+/*	<!--overflow-y: scroll;-->*/
+}
+
+/*** end ***/
+
+.scenerio-bg  .popup {
+	border-radius:3px;
+	background-color:#fff;
+	position: absolute;
+	top :55.4%;
+	left:50%;
+	width: 94%;
+    height: 78%;
+	/*font-size: 1.4em;*/
+	transform: translate(-50%,-50%);
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+
+.scenerio-bg  .popup_feedbackscreen {
+	border-radius: 3px;
+    background-color: #fff;
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    width: 95%;
+    height: 57%;
+    /* font-size: 1.4em; */
+    transform: translate(-50%,-53%)!important;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+}
+
+.scenerio-bg  .popup_showdetailscreen {
+	border-radius: 3px;
+    background-color: #fff;
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    width: 95%;
+    height: 95%;
+    size: 1.4em;
+    transform: translate(-50%,-43%)!important;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.scenerio-bg  #close_showdetails{
+	position: absolute;
+    right: 2%;
+    top: 3%;
+    font-size: 1.8em;
+	cursor:pointer;
+}
+
+.scenerio-bg  #startCall_btn{
+	position: absolute;
+    transform: translate(-50%, -85%);
+    top: 93%;
+    left: 50%;
+    height: 60px;
+	line-height:60px;
+    width: 170px;
+	font-size:1.2em; 
+	font-weight:bold;
+    background-color: #0090DA;
+    padding: 0px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19),0 3px 3px rgba(0,0,0,0.23);
+}
+
+.scenerio-bg  #feedback_showdetails{
+	position: absolute;
+    top: 52%;
+    left: 50%;
+	margin-left:-84px;
+	
+    width: 168px;
+    height: 40px;
+	font-size:1.2em;
+    background-color: #fff;
+	border:1px solid #0090DA;
+	color:#0090DA;
+    
+	/*box-shadow: 0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23);*/
+}
+
+.scenerio-bg  #feedback_continue{
+	position: absolute;
+    top: 70%;
+    left: 50%;
+	margin-left:-85px;
+    width: 170px;
+    height: 60px;
+	font-weight:bold;
+	/* font-size:1.4em; */
+    background-color: #0090DA;	
+	line-height:2.7;
+    /*padding-top: 12px;*/
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23);
+}
+
+
+.scenerio-bg  #calling_person{
+	position: absolute;
+	width: 124px;
+    height: 124px;
+    top: -15%;
+    left: 42%;
+    border: 4px solid white;
+}
+
+.scenerio-bg  .progress-bar1{
+	position: absolute;
+    transform: translate(-43%, -14%);
+    top: 14%;
+    left: 43%;
+}
+
+.scenerio-bg  .scorebar_content{
+	position: absolute;
+    transform: translate(-48%, -10%);
+    top: 10%;
+    left: 48%;
+}
+
+.scenerio-bg  .popup .img-rounded{
+	border-radius:75px;
+}
+
+.scenerio-bg  .popup_feedbackscreen #feedbackContent{
+	position:absolute;
+	/* font-size:1.4em; */
+	font-family:Arial;
+	color:#000;
+	padding:25px;
+}
+
+.scenerio-bg  .popup_feedbackscreen #feedbackContent p{
+	color:#000000;
+}
+
+.scenerio-bg  .cyu-screen .img-rounded{
+	border-radius:75px;
+}
+
+
+.scenerio-bg  #screenoption{
+	width:94%;
+	margin:0px auto;
+}
+
+.scenerio-bg  #iconspace{
+	width:97%;
+	padding-top:120px;
+	margin:0px auto;
+	padding-bottom:15px;
+}
+
+.scenerio-bg  #messageicons{
+	position: absolute;
+    font-size: 3em;
+    color: white;
+	left: 3%;
+    top: 18%; 
+}
+	
+.scenerio-bg  .card-text{
+	color:black;
+	font-family: Arial;
+	padding:6px;
+}
+
+
+.scenerio-bg  .cyu-screen{
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+.scenerio-bg  #cyuContentImage{
+    position: absolute;
+	transform: translate(-50%, -5%);
+    width: 96px;
+    height: 96px;
+    top: 5%;
+    left: 50%;
+    border: 4px solid white;
+}
+
+.scenerio-bg  .card {
+	margin-bottom:10px !important;
+}
+
+
+.scenerio-bg  #hinticons{
+    color: white;
+    position: absolute;
+    margin-top: -7%;
+    margin-left: 92%;
+    /* margin-left: 754px; */
+    font-size: 3em;
+    cursor: pointer;
+}
+
+.scenerio-bg  .hint_popup{
+	position: absolute;
+    z-index: 10;
+    top: 49%;
+    left: 50%;
+    background-color: white;
+    width: 96%;
+    height: 67%;
+    border-radius: 3px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    transform: translate(-50%,-30%);
+	/* font-size:1.4em; */
+}
+
+.scenerio-bg  #hint_content{
+	color: #DB0A5B;
+	padding: 20px;
+	/*font-size:1.4em;*/
+	padding-bottom:0px;
+}
+
+.scenerio-bg  #continue_nextsituation_btn{
+	position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-54%,-50%);
+    pointer-events: none;
+    background-color:#A7A8AA;
+    width: 140px;
+    height: 60px;
+    /* font-size: 1.4em; */
+	font-weight:bold;
+    padding: 17px;
+	border-color:#A7A8AA;
+}
+
+.scenerio-bg  hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+	width: 96%;
+}
+
+.scenerio-bg  #image_break{
+	background-color: white;
+	opacity:.6;
+	margin-left: 16px;
+}
+
+.scenerio-bg  #hint_heading{
+	color: #DB0A5B;
+	padding: 20px;
+}
+
+.scenerio-bg  #close_hint{
+	position: absolute;
+    top: 3%;
+    right: 2%;
+    font-size: 1.8em;
+    color: black;
+	cursor:pointer;
+}
+
+.scenerio-bg  .card{
+	cursor:pointer;
+	/* font-size:1.4em; */
+	line-height:1.2em;
+}
+
+
+.scenerio-bg  .positivefeedback{
+	position: absolute;
+    z-index: 10;
+    top: 46%;
+    left: 50%;
+    background-color: white;
+    width: 96%;
+    height: 63%;
+    border-radius: 3px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    transform: translate(-50%,-22%);
+}
+
+.scenerio-bg  .positivefeedback p{
+	color:#000000;
+}
+
+.scenerio-bg  .negativefeedback p{
+	color:#000000;
+}
+
+.scenerio-bg  #continue_withpositiveresponse_btn{
+	position: absolute;
+    left: 39%;
+    top: 35%;
+}
+	
+	
+.scenerio-bg  #positivefeedback_heading{
+	margin-left: 20px;
+    margin-top: 20px;
+	font-weight:bold;
+}
+
+.scenerio-bg  #positivefeedbackcontent{
+	color:black;
+	padding:20px;
+	/* font-size: 1.4em; */
+}
+
+.scenerio-bg  .points{
+	position: absolute;
+    margin-top: -57px;
+    margin-left: 62px;
+    height: 27px;
+    width: 27px;
+    /* font-size: 1.4em !important; */
+    border: 1px solid #A7A8AA;
+    padding: 7px !important;
+}
+
+
+.scenerio-bg  .negativefeedback{
+	position: absolute;
+    z-index: 10;
+    top: 46%;
+    left: 50%;
+    background-color: white;
+    width: 96%;
+    height: 63%;
+    border-radius: 3px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    transform: translate(-50%,-22%);
+}
+
+.scenerio-bg  #continue_withnegativeresponse_btn{
+	position: absolute;
+    left: 39%;
+    top: 35%;
+}
+	
+	
+.scenerio-bg  #negativefeedback_heading{
+	margin-left: 20px;
+    margin-top: 20px;
+	font-weight:bold;
+}
+
+.scenerio-bg  #negativefeedbackcontent{
+	/* font-size: 1.4em; */
+	padding:20px;
+	line-height:1.2em;
+}
+
+.scenerio-bg  .cyu-screen .badge {
+	/* font-size: 100% !important; */
+}
+
+.scenerio-bg  .cyu-screen .w-75 {
+	left: -5%;
+    width: 88%!important;
+}
+
+
+
+
+/* Progress Bar*/
+
+
+/*.progress-bar1 {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  margin:0 auto;
+}*/
+ 
+.scenerio-bg  .progress-bar1 div {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+ 
+.scenerio-bg  .progress-bar1 div span {
+position: absolute;
+font-family: Arial;
+font-size: 25px;
+line-height: 90px;
+height: 90px;
+width: 90px;
+left: 4.5px;
+top: 5.5px;
+text-align: center;
+border-radius: 50%;
+background-color: white;
+}
+
+.scenerio-bg  .progress-bar1 .background { background-color: #b3cef6; }
+ 
+.scenerio-bg  .progress-bar1 .rotate {
+  clip: rect(0 50px 100px 0);
+  background-color: #4b86db;
+}
+ 
+.scenerio-bg  .progress-bar1 .left {
+  clip: rect(0 50px 100px 0);
+  opacity: 1;
+  background-color: #b3cef6;
+}
+ 
+.scenerio-bg  .progress-bar1 .right {
+  clip: rect(0 50px 100px 0);
+  transform: rotate(180deg);
+  opacity: 0;
+  background-color: #4b86db;
+}
+ 
+@keyframes
+toggle {  0% {
+ opacity: 0;
+}
+ 100% {
+ opacity: 1;
+}
+}  
+
+/* Progress Bar end */
+
+
+.scenerio-bg  .showdetails_content{
+	line-height: 2;
+    padding: 12px !important;
+  /*   font-size: 1.2em; */
+    font-family: Arial;
+    margin-left: 155px;
+    font-weight: bold;
+    margin-right: -170px;
+	padding-left:0 !important;
+}
+
+.scenerio-bg  .showdetails_heading{
+    /* font-size: 1.4em; */
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: 55px;
+	margin-left: 155px;
+	line-height: 0.8;
+	margin-right:-130px;
+}
+
+.scenerio-bg  .showdetails_headingseparation{
+	border-top: 1px solid #000;
+    /*margin-left: 41.5px;*/
+    width: 90%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.scenerio-bg  .scorebar_content{
+    color: white;
+    font-weight: bold;
+    /* font-size: 1.4em; */
+	font-family: Arial;
+}
+
+.scenerio-bg  .Detailscreenicon{
+	font-size:1.4em
+}
+
+.scenerio-bg  #feedback_Tryagain{
+	position: absolute;
+    top: 70%;
+    left: 50%;
+	margin-left:-85px;
+    width:170px;
+	height:60px;
+	font-size:1.2em;
+	font-weight:bold;
+    background-color: #0090DA;
+    /*padding-top: 12px;*/
+	line-height: 50px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);
+}
+
+
+.scenerio-bg  .card-body{
+	padding: 0.5rem !important;
+	
+}
+
+
+.scenerio-bg  .feedbackscreen{
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+.scenerio-bg  .showdetailfeedbackscreen{
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+	
+}
+
+
+.scenerio-bg  #hint_heading{
+		padding-bottom: 0px;
+		padding-top: 39px;
+	}
+	
+.scenerio-bg  #hint_separation{
+	margin-bottom: 24px;
+	margin-top: 10px;
+	border-bottom: 1px solid #000;
+}
+	
+	.scenerio-bg  #hint_content{
+		padding-bottom: 0px;
+		padding-top: 0px;
+	}
+.scenerio-bg  .scenerio-instruction-text p{
+	font-size:1.4em;
+	font-family:Arial;
+	padding-right:15px;
+}
+
+@media only screen and (max-device-width: 767px) and (min-device-width: 375px) and (orientation: portrait){
+.scenerio-bg .thumbnail-profile{
+width:50%;
+}
+
+.scenerio-bg .showdetails_heading .col-4{
+	text-align:center;	
+}
+
+.logo-section.mobile-padding-leftRight0 {
+   background-color: #fff;
+	text-align: center; 
+	padding-right:0;
+	padding-left:0;
+}
+.logo-section{
+display: block;
+}
+/*.logo-section h4 {
+	background-color: #0061A0;
+	color: #fff;
+	font-size: 14px;
+	padding: 18px 12px 12px 30px;
+	margin-bottom: 5px;
+	font-weight: normal;
+	text-align: left;
+}*/
+
+
+.mcqBackBtn{
+	margin-left: 0px;
+    padding-left: 34px;	
+}
+
+
+
+
+.on-mobile-hide{
+	
+	display:none !important;
+	
+}
+
+.scenerio-bg  .hintScrollClass {
+    height: 257px;
+	overflow-y:Scroll;
+}
+
+
+.logo-section img {
+	text-align: center;
+	margin: 0 auto;
+}
+
+#image_break{
+	margin-left: 7px;
+}
+
+.scenerio-bg  .popup{
+    top: 45%;
+    left: 50%;
+    width: 94%;
+    height: 60%;
+	
+}
+	
+	.scenerio-bg .scenerio-model-dial .btn-info.custom-btn,  .scenerio-bg .continue_screen .btn-info.custom-btn, .scenerio-bg .endingConversation .btn-info.custom-btn,  .scenerio-bg .continue_screen .btn-info.custom-btn {
+		margin-top:40px;
+	}
+	
+	.scenerio-bg  .showdetails_content{
+		margin-left: 0;
+		padding-left: 30px !important;
+		line-height:1;
+		margin-right: -82px;
+	}
+	
+	.scenerio-bg  .showdetails_heading{
+		line-height:1;
+		
+	}
+	
+	.scenerio-bg  .showdetails_headingseparation{
+		margin-left: 14px;
+		
+	}
+	.scenerio-bg  .showdetails_heading{
+		margin-left: 30px;
+		margin-right: -38px;
+	}
+	
+	
+	.scenerio-bg  .scenerio-model-dial p, .scenerio-bg   .timeSlot, .scenerio-bg  .endingConversation p {
+		margin-top: 70%;
+		/* font-size:1.4em; */
+	}
+	.scenerio-bg  #contentHeadingWrapper_scenerio {
+		display: block;
+	}
+	
+	.width10 {
+		float: left;
+	/* 	font-size: 3em; */
+		position: relative;
+		top: 17px;
+		width:10%;
+	}
+	
+	.desktop-bg-img{
+		display:none;
+	}
+	.mobile-bg-img{
+		display:block;
+	}
+	
+	.card-body {
+    padding: 0.3rem !important;
+	}
+	
+	.scenerio-bg  #continue_nextsituation_btn{
+		top: 62%;
+		left: 51%;
+	}
+	
+	.scenerio-bg  .hint_popup{
+		width: 95%;
+		height: 73%;
+		top: 47%;
+		left: 50%;
+	 }
+	.scenerio-bg  #close_hint{
+		top: 2% !important;
+		left: 90% !important;
+	}	
+
+	.scenerio-bg  #hint_separation{
+		width:90%;
+		border-bottom: 1px solid #000;
+	}
+	.scenerio-bg  #iconspace{
+	width:97%;
+	padding-top:116px;
+	margin:0px auto;
+	padding-bottom:0px;
+}
+	
+	.scenerio-bg  .positivefeedback{
+		top: 41%;
+		left: 50%;
+		width: 95%;
+		height: 64%;
+	}
+	
+	.scenerio-bg  #continue_withpositiveresponse_btn{
+		left: 26%;
+		top: 44%;
+	}
+	.scenerio-bg  .negativefeedback{
+		top: 41%;
+		left: 50%;
+		width: 95%;
+        height: 64%;
+		
+	}
+	
+	.scenerio-bg  #continue_withnegativeresponse_btn{
+		left: 26%;
+		top: 44%;
+	}
+	
+	.scenerio-bg  #feedback_showdetails{
+		top: 55%;
+		
+	}
+	
+	.scenerio-bg  #feedback_Tryagain{
+		top:70%;
+		
+	}
+	
+	.scenerio-bg  #feedback_continue{
+		top:70%;
+		
+	}
+	
+	.scenerio-bg  .popup_feedbackscreen{
+		top: 66%;
+		left: 50%;
+		width: 89%;
+		height: 65%;	
+	}
+	.scenerio-bg  .popup_feedbackscreen #feedbackContent{
+		padding: 15px !important;
+	}
+	.scenerio-bg  .scorebar_content{
+		top: 5% !important;
+	}
+	
+	.scenerio-bg  .progress-bar1 {
+		position: absolute;
+		transform: translate(-36%, -9%);
+		top: 9%;
+		left: 36%;
+}
+
+d.scenerio-bg  iv.play-pause-btn{
+	top: 249px;
+    right: 84px;
+}
+
+.scenerio-bg  #startCall_btn{
+	
+    top: 92%;
+    left: 49%;
+	}
+	
+.scenerio-bg  .popup #learningContent{
+	top: 11%;
+    font-family: Arial;
+    padding: 8px;
+	height: 210px;
+	overflow-y:scroll;
+}
+
+
+
+.scenerio-bg  #calling_person{
+	width: 76px;
+    height: 76px;
+    top: -12%;
+    left: 39%;
+}
+
+.scenerio-bg  .cyu-screen div.play-pause-btn {
+	top: 86px;
+    right: 139px;
+	cursor:pointer;
+}
+
+.scenerio-bg  #close_showdetails {
+    /*left: 91%;*/
+	right:4%;
+    top: 2%;
+}
+
+.scenerio-bg  .continue_screen div.play-pause-btn{
+	    top: 201px;
+    right: 98px;
+}
+
+.scenerio-bg  .endingConversation div.play-pause-btn{
+	    top: 206px;
+    right: 102px;	
+}
+
+.scenerio-bg  #messageicons{
+	left: 3%;
+    top: 16%;
+}
+.scenerio-bg  #hinticons{
+	margin-top: -14%;
+    margin-left: 88%;
+	
+}
+
+
+.scenerio-bg  .points{
+	margin-left: 49px;
+}
+
+.scenerio-bg  .popup_showdetailscreen{
+	width: 89%;
+    height: 92%;
+	top: 44%;
+}
+
+.scenerio-bg  .popup_feedbackscreen #feedbackContent{
+/* 	font-size: 1.4em; */
+	
+}
+
+.scenerio-bg  .scenerio-bg .thumbnail-profile{
+		width: 200px;
+		height: auto;
+	}
+
+	
+}
+
+
+@media all and (max-width:767px) and (orientation: landscape) {
+	.scenerio-bg .points{
+	margin-top:-50px;
+	}
+	.scenerio-bg  .hintScrollClass{
+	height:165px;
+	overflow-y:scroll;
+	}
+	
+	.scenerio-bg .thumbnail-profile{
+	width:25%;
+	}
+	
+	.logo-section.mobile-padding-leftRight0 {
+   background-color: #fff;
+	text-align: center; 
+	padding-right:0;
+	padding-left:0;
+}
+.logo-section{
+display: block;
+}
+
+
+
+.mcqBackBtn{
+	margin-left: 0px;
+    padding-left: 34px;	
+}
+
+
+
+
+
+.on-mobile-hide{
+	
+	display:none !important;
+	
+}
+
+
+.logo-section img {
+	text-align: center;
+	margin: 0 auto;
+}
+
+	
+	
+	
+	.width10 {
+		float: left;
+		/* font-size: 3em; */
+		position: relative;
+		top: 17px;
+		width:10%;
+	}
+	
+	.scenerio-bg  #positivefeedbackcontent{
+		padding-top: 7px;
+	}
+	.scenerio-bg  #negativefeedbackcontent{
+		padding-top: 7px;
+	}
+	
+	.scenerio-bg  #contentHeadingWrapper_scenerio{
+		display:none !important;
+	}	
+	
+	
+	.scenerio-bg  div.play-pause-btn{
+		top: 218px;
+		right: 230px;
+		
+	}
+	
+	.scenerio-bg  #calling_person{
+		left: 42%;
+		width: 76px;
+		height: 76px;
+		top: -17%;
+	}
+	
+	.scenerio-bg  #startCall_btn{
+		/* padding-top: 15px; */
+		top: 92%;
+		left: 50%;
+	}
+	
+	.scenerio-bg  .popup{
+		width: 90%;
+		height: 75%;
+		top: 54%;
+		padding-top: 10px;
+	}
+	
+	.scenerio-bg  .popup #learningContent{
+		top:17%;
+		/* font-size: 1.4em;	 */	
+	}
+	
+	.scenerio-bg  .scenerio-model-dial p, .scenerio-bg  .timeSlot, .scenerio-bg  .endingConversation p{
+		margin-top: 34%;	
+	}
+	
+	.scenerio-bg .scenerio-model-dial .btn-info.custom-btn, .scenerio-bg .continue_screen .btn-info.custom-btn, .scenerio-bg .endingConversation .btn-info.custom-btn, .scenerio-bg .continue_screen .btn-info.custom-btn{
+		margin-top: 13px;
+	}
+	.scenerio-bg  .scorebar_content{
+		transform: translate(-50%, -4%);
+		top: 4%;
+		left: 50%;	
+	}
+	.scenerio-bg  .progress-bar1{
+	transform: translate(-42%, -9%);
+    top: 9%;
+    left: 42%;
+	}
+	.scenerio-bg  #feedback_showdetails{
+		top: 71%;
+    left: 36%;	
+	}
+	.scenerio-bg  #feedback_Tryagain{
+	top: 65%;
+    left: 66%;
+	}
+	.scenerio-bg  #feedback_continue{
+		top: 65%;
+		left: 50%;
+	}
+	.scenerio-bg  .card-body {
+    padding: 0.1rem !important;
+	}
+	.scenerio-bg  .cyu-screen div.play-pause-btn{
+		top: 75px;
+    left: 365px;
+
+	}
+	.scenerio-bg  #iconspace{
+		padding-top: 104px;
+	}
+	.scenerio-bg  #continue_nextsituation_btn{
+		top: 65%;
+	}
+	.scenerio-bg  .hint_popup{
+		    top: 54%;
+    width: 98%;
+    height: 62%;
+	}
+	
+	.scenerio-bg  #close_hint{
+		top: 4%;
+		left: 94%;	
+	}
+	.scenerio-bg  .positivefeedback{
+		top: 48%;
+    height: 63%;
+	}
+	.scenerio-bg  #continue_withpositiveresponse_btn{
+		top: 22%;
+		
+	}
+	.scenerio-bg  .negativefeedback{
+	top: 48%;
+    height: 63%;
+	}
+	.scenerio-bg  #continue_withnegativeresponse_btn{
+		top: 28%;
+		left: 37%;
+		
+	}
+	.scenerio-bg  .continue_screen div.play-pause-btn {
+		    top: 159px;
+    left: 387px;
+	}
+	
+	.scenerio-bg  .endingConversation div.play-pause-btn {
+		top: 161px;
+    left: 390px;
+
+	}
+	
+	
+	.scenerio-bg  .popup_feedbackscreen #feedbackContent{
+		top:0%;
+		
+	}
+	.scenerio-bg  .scenerio-bg .thumbnail-profile{
+		top:16%;
+		width: 200px;
+		height: auto;
+	}
+	
+	.scenerio-bg  #hint_heading{
+		padding-bottom: 0px;
+		padding-top: 10px;
+	}
+	
+	.scenerio-bg  #hint_separation{
+		margin-bottom: 10px;
+		margin-top: 10px;
+		border-bottom: 1px solid #000;
+		width: 95%;
+	}
+	
+	.scenerio-bg  #hint_content{
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom:6px;
+	}
+	
+	.scenerio-bg  #messageicons{
+		top: 20%;
+		
+	}
+	.scenerio-bg  .popup_feedbackscreen{
+		height: 60%;
+		
+	}
+	
+	.scenerio-bg  .showdetails_headingseparation{
+		margin-left: 29px;
+	}
+	
+	.scenerio-bg  .showdetails_content{
+		margin-left: 84px;
+		margin-right: -179px;
+		
+	}
+	
+	.scenerio-bg  .showdetails_heading{
+		margin-top: 55px;
+		margin-left:90px;
+	}
+	
+	
+	
+	
+}
+
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1023px) and (orientation : portrait) {
+.scenerio-bg .popup #learningContent {
+top:30%;
+}
+
+}
+
+
+
+

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<course>
+	<courseTitle><![CDATA[Performance Planning and Measurement]]></courseTitle>
+	<courseDesc><![CDATA[]]></courseDesc>
+	<courseProgressTitle><![CDATA[Course Progress]]></courseProgressTitle>
+	<aboutCourseTitle><![CDATA[Introduction]]></aboutCourseTitle>
+	<aboutCourseContent><![CDATA[Performance management is about how you help your life insurance professionals develop and become more successful as individuals and as a team. However, before you can do either of these, you need to make sure that your team members know what they need to achieve and that they are motivated enough to do it.<br>
+
+After you have completed this module, you should be able to:<br>
+• Define performance management and understand where it fits within the sales management process<br>
+• Explain the key areas within the performance management process<br>
+• Explain the importance of performance planning and measurement<br>]]>
+	</aboutCourseContent>
+	
+	<global heading="In reproduction" type="Video" require="0">
+		<title><![CDATA[Selling Insurance Over Phone]]></title>						
+		<launch><![CDATA[splash]]></launch>
+		<!--<home><![CDATA[home]]></home>-->
+	</global>	
+	
+	<topics>		
+		<!--Topic 1 Starts Here-->
+		<topic>
+			<title><![CDATA[Introduction to Performance Management]]></title>
+			<pages>
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Your Role in Performance Management]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L1T1]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Managing Performance]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L1T2]]></url>
+				</page>
+			</pages>
+		</topic>
+		
+		<!--Topic 1 Ends Here-->
+		
+		<!--Topic 2 Starts Here-->
+		
+		<topic>
+			<title><![CDATA[Performance Planning]]></title>
+			<pages>
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Performance Planning]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L2T1]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Need for Measuring and Planning the Performance]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L2T2]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Benefits and Frequency of Planning the Performance]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L2T3]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Benefits and Frequency of Planning the Performance]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L2T4]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Story of a Life Insurance Professional]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L2T5]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Story of a Sales Manager]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L2T6]]></url>
+				</page>
+			</pages>
+		</topic>
+		<!--Topic 2 Ends Here-->
+
+		<!--Topic 3 Starts Here-->
+		<topic>
+			<title><![CDATA[How to Plan and Measure Performance]]></title>
+			<pages>
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Assessing the Situation]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L3T1]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Planning Individual Targets]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L3T2]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[One-to-One Planning Meeting]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L3T3]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Reviewing and Planning Sales Activity]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L3T4]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Agreeing on Individual Targets]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L3T5]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Sales Performance Ratios and Persistency]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L3T6]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Monitoring Performance]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L3T7]]></url>
+				</page>
+
+				<page type="Actividate" heading="In reproduction" layout="primary">
+					<title><![CDATA[Activity 1]]></title>
+					<thumbnail><![CDATA[3_8.jpg]]></thumbnail>
+					<template><![CDATA[sequenceMcq]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L3T8]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[How to Measure Performance]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L3T9]]></url>
+				</page>
+
+				<page type="Video" heading="In reproduction" layout="primary">
+					<title><![CDATA[Summarizing Performance Planning and Measurement]]></title>
+					<template><![CDATA[video]]></template>
+					<forceNavigation><![CDATA[false]]></forceNavigation>
+					<url><![CDATA[DM_IN_ENG_PerformancePlanningAndMeasurement_2018_L3T10]]></url>
+				</page>
+			</pages>
+		</topic>
+		<!--Topic 3 Ends Here-->
+
+	</topics>
+</course>

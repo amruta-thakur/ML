@@ -1,0 +1,41 @@
+<html>
+	<head>
+	  <title>Flowplayer Demo</title>
+	  <meta charset="utf-8" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+	  <link rel="stylesheet" href="https://releases.flowplayer.org/7.2.4/skin/skin.css" />
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+	  <link rel="stylesheet" type="text/css" href="styles.css" />
+	</head>
+	<body>
+		
+		<div class="container">
+			<div class="col-xs-12">
+				<div  class="flowplayer" id = "hlsjslive" data-ratio="0.4167">
+				</div>
+			</div>	
+		</div>
+		</div>
+		<script src="plugins/flow-player/flowplayer.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script type="text/javascript" src="https://metlifedap-stg.niit-mts.com/rating/js/rating-plugin.js"></script>
+		<script src="plugins/flow-player/flowplayer.hlsjs.min.js"></script>
+	</body>
+	<script>
+		flowplayer("#hlsjslive", {
+            splash: false,
+            autoplay: false,
+	    twitter: false,
+            hlsjs: { xhrSetup: function (xhr) { xhr.withCredentials = true; }},
+            ratio: 9/16,
+			clip: {
+				live: false,
+				sources: [
+                { type: "application/x-mpegurl",
+                src: "https://video.niit-mts.com/RECO-Sampler-HighDef.m3u8" }
+				]
+            }
+        });
+	</script>
+	
+</html>
